@@ -1,0 +1,1086 @@
+,Brand,Model,Variant,Manufacturing_year,Driven_kilometers,Fuel,number_of_owners,location,Price
+0,Maruti,Swift,ZDI BSIV,2017,"81,000 kms",Diesel,First Owner,chennai,6.25 Lakh*
+1,Hyundai,EON,Era Plus Option,2016,"41,671 kms",Petrol,First Owner,chennai,3.33 Lakh*
+2,Ford,EcoSport,1.5 Petrol Titanium Plus AT,2018,"40,000 kms",Petrol,First Owner,chennai,8.9 Lakh*
+3,Honda,Mobilio,S i VTEC,2015,"24,500 kms",Petrol,First Owner,chennai,6.75 Lakh*
+4,Nissan,Micra,XL,2017,"84,000 kms",Petrol,First Owner,chennai,4.15 Lakh*
+5,Maruti,Baleno,Delta 1.2,2018,"13,980 kms",Petrol,First Owner,chennai,6.5 Lakh*
+6,Skoda,Kodiaq,2.0 TDI Style,2018,"60,000 kms",Diesel,First Owner,chennai,28.9 Lakh*
+7,Jaguar,XJ,3.0L,2011,"65,000 kms",Diesel,First Owner,chennai,25 Lakh*
+8,Maruti,Ciaz,Sigma Diesel,2017,"46,000 kms",Diesel,First Owner,chennai,8.25 Lakh*
+9,Maruti,Gypsy,W410 4X4,2008,"10,000 kms",Petrol,First Owner,chennai,4.5 Lakh*
+10,Maruti,Ciaz,ZDi,2017,"89,568 kms",Diesel,First Owner,chennai,7.5 Lakh*
+11,Toyota,Corolla,Altis G,2011,"69,775 kms",Petrol,Second Owner,chennai,4.8 Lakh*
+12,Toyota,Platinum,Etios 1.4 GD,2019,"51,000 kms",Diesel,First Owner,chennai,7.55 Lakh*
+13,Toyota,Innova,2.5 V Diesel 8-seater,2010,"1,70,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+14,Honda,Brio,V MT,2013,"55,900 kms",Petrol,First Owner,chennai,3.9 Lakh*
+15,Hyundai,Santro,Xing GL,2008,"70,000 kms",Petrol,First Owner,chennai,1.95 Lakh*
+16,Hyundai,i10,Sportz,2013,"43,000 kms",Petrol,First Owner,chennai,3.75 Lakh*
+17,Maruti,Vitara,Brezza VDi,2017,"83,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+18,Maruti,Alto,K10 2010-2014 VXI,2013,"32,500 kms",Petrol,First Owner,chennai,3.5 Lakh*
+19,Maruti,Omni,8 Seater BSIV,2013,"68,000 kms",Petrol,First Owner,chennai,2.5 Lakh*
+20,Hyundai,Grand,i10 AT Asta,2016,"42,856 kms",Petrol,First Owner,chennai,5.2 Lakh*
+21,Toyota,Innova,2.5 V Diesel 8-seater,2008,"2,30,000 kms",Diesel,Second Owner,chennai,6 Lakh*
+22,Ford,Aspire,1.5 TDCi Titanium,2017,"34,950 kms",Diesel,First Owner,chennai,6.3 Lakh*
+23,Maruti,Swift,VXI Glory Limited Edition,2015,"1,10,000 kms",Petrol,First Owner,chennai,4.77 Lakh*
+24,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2019,"12,000 kms",Diesel,First Owner,chennai,25 Lakh*
+25,Hyundai,Verna,CRDi 1.6 SX Option,2019,"35,000 kms",Diesel,First Owner,chennai,12.9 Lakh*
+26,Honda,BRV,i-VTEC VX MT,2016,"7,000 kms",Petrol,First Owner,chennai,7.5 Lakh*
+27,Hyundai,Grand,i10 1.2 Kappa Asta,2013,"53,515 kms",Petrol,First Owner,chennai,3.75 Lakh*
+28,Hyundai,Santro,L2,1999,"80,000 kms",Petrol,Third Owner,chennai,"55,000*"
+29,Chevrolet,Aveo,U-VA 1.2 LS,2007,"90,000 kms",Petrol,Third Owner,chennai,1.8 Lakh*
+30,Maruti,Eeco,7 Seater Standard BSIV,2012,"70,000 kms",Petrol,First Owner,chennai,2.1 Lakh*
+31,Porsche,Macan,S Diesel,2016,"80,000 kms",Diesel,Second Owner,chennai,50 Lakh*
+32,Mercedes-Benz,E-Class,E250 CDI Avantgrade,2014,"18,000 kms",Diesel,First Owner,chennai,27 Lakh*
+33,Ford,Fiesta,1.4 Duratorq EXI,2014,"1,18,054 kms",Diesel,Second Owner,chennai,2.8 Lakh*
+34,Ford,Figo,Diesel ZXI,2013,"72,000 kms",Diesel,First Owner,chennai,3.2 Lakh*
+35,Audi,Q5,2.0 TDI,2012,"75,001 kms",Diesel,Second Owner,chennai,13.5 Lakh*
+36,Hyundai,Verna,1.6 SX CRDI (O) AT,2012,"1,29,000 kms",Diesel,Second Owner,chennai,4.25 Lakh*
+37,Toyota,Innova,2.5 GX (Diesel) 7 Seater,2016,"74,000 kms",Diesel,First Owner,chennai,13.9 Lakh*
+38,Hyundai,Grand,i10 1.2 Kappa Magna BSIV,2018,"22,000 kms",Petrol,First Owner,chennai,5.4 Lakh*
+39,Hyundai,Grand,i10 1.2 Kappa Magna BSIV,2018,"22,000 kms",Petrol,First Owner,chennai,5.4 Lakh*
+40,Hyundai,Grand,i10 AT Asta,2016,"25,000 kms",Petrol,First Owner,chennai,5 Lakh*
+41,Maruti,Swift,VDI,2012,"1,14,000 kms",Diesel,First Owner,chennai,4.25 Lakh*
+42,Maruti,Ritz,VXI,2010,"15,000 kms",Petrol,First Owner,chennai,2.9 Lakh*
+43,Maruti,Alto,K10 2010-2014 VXI,2011,"38,000 kms",Petrol,First Owner,chennai,2.65 Lakh*
+44,Toyota,Camry,2.5 Hybrid,2015,"80,000 kms",Petrol,Second Owner,chennai,14.5 Lakh*
+45,Maruti,Alto,LXi,2008,"73,953 kms",Petrol,First Owner,chennai,1.7 Lakh*
+46,Hyundai,i10,Sportz,2014,"83,000 kms",Petrol,First Owner,chennai,3.75 Lakh*
+47,Hyundai,Grand,i10 AT Asta,2015,"59,000 kms",Petrol,First Owner,chennai,4.5 Lakh*
+48,Volkswagen,Ameo,1.5 TDI Highline Plus,2016,"61,600 kms",Diesel,First Owner,chennai,5.8 Lakh*
+49,Honda,City,2017-2020 GXi,2008,"1,00,000 kms",Petrol,Second Owner,chennai,2.9 Lakh*
+50,Hyundai,Xcent,1.1 CRDi SX Option,2014,"55,000 kms",Diesel,First Owner,chennai,5.5 Lakh*
+51,Hyundai,i10,Magna 1.2 iTech SE,2011,"79,000 kms",Petrol,Second Owner,chennai,2.9 Lakh*
+52,Maruti,Ciaz,Alpha BSIV,2019,"12,800 kms",Petrol,First Owner,chennai,8.75 Lakh*
+53,Ford,Classic,1.4 Duratorq CLXI,2013,"1,50,000 kms",Diesel,First Owner,chennai,3 Lakh*
+54,Hyundai,Xcent,1.2 VTVT SX,2018,"15,000 kms",Petrol,First Owner,chennai,6.2 Lakh*
+55,Honda,Jazz,1.2 VX i VTEC,2017,"7,000 kms",Petrol,Second Owner,chennai,7.2 Lakh*
+56,Renault,Duster,85PS Diesel RxL,2016,"65,639 kms",Diesel,Second Owner,chennai,5.9 Lakh*
+57,Hyundai,Santro,Xing XO,2005,"60,000 kms",Petrol,Third Owner,chennai,1.5 Lakh*
+58,Hyundai,i10,Magna,2010,"1,00,000 kms",Petrol,First Owner,chennai,2.25 Lakh*
+59,Hyundai,Xcent,1.1 CRDi SX Option,2015,"52,000 kms",Diesel,Second Owner,chennai,4.5 Lakh*
+60,Chevrolet,Beat,LT,2011,"33,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+61,Maruti,Swift,ZXI,2019,"23,224 kms",Petrol,First Owner,chennai,7 Lakh*
+62,Maruti,Swift,VDI,2012,"73,149 kms",Diesel,First Owner,chennai,4.65 Lakh*
+63,Volkswagen,Polo,2015-2019 1.5 TDI Highline,2014,"56,000 kms",Diesel,First Owner,chennai,5.4 Lakh*
+64,Maruti,Zen,LX,1997,"40,000 kms",Petrol,First Owner,chennai,1.25 Lakh*
+65,Maruti,Alto,LXi,2006,"80,000 kms",Petrol,Second Owner,chennai,1.45 Lakh*
+66,Ford,EcoSport,1.5 Petrol Titanium BSIV,2019,"22,404 kms",Petrol,First Owner,chennai,8.7 Lakh*
+67,Chevrolet,Beat,LS,2013,"1,20,000 kms",Petrol,Second Owner,chennai,2.5 Lakh*
+68,Maruti,Swift,VXI,2015,"41,892 kms",Petrol,First Owner,chennai,5.3 Lakh*
+69,Maruti,Swift,Dzire Tour 2012-2018 LDI,2016,"1,35,000 kms",Diesel,First Owner,chennai,5.5 Lakh*
+70,Honda,WR-V,i-VTEC VX,2017,"32,000 kms",Petrol,Second Owner,chennai,7.4 Lakh*
+71,Hyundai,Grand,i10 AT Asta,2016,"43,000 kms",Petrol,First Owner,chennai,5.2 Lakh*
+72,Land,Rover,Discovery Sport TD4 HSE 7S,2016,"45,000 kms",Diesel,First Owner,chennai,36 Lakh*
+73,Tata,Indica,DLX,2007,"35,000 kms",Diesel,First Owner,chennai,1.25 Lakh*
+74,Maruti,Baleno,Delta 1.2,2015,"30,000 kms",Petrol,First Owner,chennai,5.64 Lakh*
+75,Maruti,Swift,Dzire VDI,2013,"78,000 kms",Diesel,First Owner,chennai,5.25 Lakh*
+76,Maruti,Baleno,Sigma,2016,"41,383 kms",Petrol,First Owner,chennai,5.25 Lakh*
+77,Toyota,Innova,2.5 V Diesel 8-seater,2011,"1,02,000 kms",Diesel,Second Owner,chennai,8.9 Lakh*
+78,Toyota,Innova,Crysta 2016-2020 2.4 VX MT,2017,"39,000 kms",Diesel,First Owner,chennai,19.25 Lakh*
+79,Hyundai,i10,Sportz,2015,"54,000 kms",Petrol,First Owner,chennai,3.9 Lakh*
+80,Honda,City,1.5 V MT,2011,"1,08,733 kms",Petrol,First Owner,chennai,4 Lakh*
+81,Volkswagen,Vento,Diesel Highline,2012,"1,29,000 kms",Diesel,Second Owner,chennai,4.35 Lakh*
+82,Maruti,800,DX 5 Speed,2000,"70,000 kms",Petrol,Third Owner,chennai,"94,000*"
+83,Hyundai,i20,2012-2014 Asta 1.4 AT,2012,"80,000 kms",Petrol,Second Owner,chennai,3.5 Lakh*
+84,Maruti,Vitara,Brezza ZDi Plus Dual Tone,2019,"14,000 kms",Diesel,First Owner,chennai,11.5 Lakh*
+85,Hyundai,Grand,i10 AT Sportz,2014,"40,169 kms",Petrol,First Owner,chennai,4.5 Lakh*
+86,Toyota,Innova,Crysta 2016-2020 2.4 VX MT 8S BSIV,2017,"1,50,000 kms",Diesel,First Owner,chennai,16.65 Lakh*
+87,Mercedes-Benz,GLE,Class 350d,2016,"25,000 kms",Diesel,Second Owner,chennai,43.5 Lakh*
+88,Ford,EcoSport,1.5 TDCi Titanium BSIV,2015,"1,28,000 kms",Diesel,First Owner,chennai,5.5 Lakh*
+89,Ford,EcoSport,1.5 Petrol Titanium Plus AT BSIV,2018,"24,000 kms",Petrol,First Owner,chennai,9.45 Lakh*
+90,Hyundai,i20,1.4 CRDi Asta,2016,"64,112 kms",Diesel,First Owner,chennai,6.5 Lakh*
+91,Maruti,Alto,K10 LXI,2016,"53,000 kms",Petrol,First Owner,chennai,3 Lakh*
+92,Ford,EcoSport,Titanium Diesel,2020,"10,400 kms",Diesel,First Owner,chennai,9.8 Lakh*
+93,Hyundai,i20,Sportz Plus BSIV,2018,"26,000 kms",Petrol,First Owner,chennai,6.9 Lakh*
+94,Hyundai,Grand,i10 Magna,2014,"40,000 kms",Petrol,First Owner,chennai,3.9 Lakh*
+95,Hyundai,Grand,i10 CRDi Magna,2014,"49,000 kms",Diesel,First Owner,chennai,4.3 Lakh*
+96,Maruti,Wagon,R VXI,2017,"24,147 kms",Petrol,First Owner,chennai,4.3 Lakh*
+97,Toyota,Innova,2.5 GX (Diesel) 8 Seater,2013,"120,000 kms",Diesel,Second Owner,chennai,9.5 Lakh*
+98,Hyundai,i20,2012-2014 Asta 1.4 AT,2012,"80,000 kms",Petrol,Second Owner,chennai,3.5 Lakh*
+99,Maruti,Omni,5 Seater BSIV,2001,"37,539 kms",Petrol,Third Owner,chennai,"85,000*"
+100,Maruti,Vitara,Brezza ZDi Plus Dual Tone,2019,"14,000 kms",Diesel,First Owner,chennai,11.5 Lakh*
+101,Hyundai,Grand,i10 AT Sportz,2014,"40,169 kms",Petrol,First Owner,chennai,4.5 Lakh*
+102,Toyota,Innova,Crysta 2016-2020 2.4 VX MT 8S BSIV,2017,"1,50,000 kms",Diesel,First Owner,chennai,16.65 Lakh*
+103,Ford,EcoSport,Signature Edition Diesel BSIV,2018,"31,000 kms",Diesel,First Owner,chennai,9.95 Lakh*
+104,Mercedes-Benz,GLE,Class 350d,2016,"25,000 kms",Diesel,Second Owner,chennai,43.5 Lakh*
+105,Ford,EcoSport,1.5 TDCi Titanium BSIV,2015,"1,28,000 kms",Diesel,First Owner,chennai,5.5 Lakh*
+106,Ford,EcoSport,1.5 Petrol Titanium Plus AT BSIV,2018,"24,000 kms",Petrol,First Owner,chennai,9.45 Lakh*
+107,Hyundai,i20,1.4 CRDi Asta,2016,"64,112 kms",Diesel,First Owner,chennai,6.5 Lakh*
+108,Maruti,Alto,K10 LXI,2016,"53,000 kms",Petrol,First Owner,chennai,3 Lakh*
+109,Maruti,Swift,LDI,2010,"67,576 kms",Diesel,First Owner,chennai,3.25 Lakh*
+110,Ford,EcoSport,Titanium Diesel,2020,"10,400 kms",Diesel,First Owner,chennai,9.8 Lakh*
+111,Hyundai,i20,Sportz Plus BSIV,2018,"26,000 kms",Petrol,First Owner,chennai,6.9 Lakh*
+112,Hyundai,Grand,i10 Magna,2014,"40,000 kms",Petrol,First Owner,chennai,3.9 Lakh*
+113,Hyundai,Grand,i10 CRDi Magna,2014,"49,000 kms",Diesel,First Owner,chennai,4.3 Lakh*
+114,Maruti,Ertiga,VDI,2012,"1,15,000 kms",Diesel,First Owner,chennai,5.65 Lakh*
+115,Maruti,Wagon,R VXI,2017,"24,147 kms",Petrol,First Owner,chennai,4.3 Lakh*
+116,Toyota,Innova,2.5 GX (Diesel) 8 Seater,2013,"120,000 kms",Diesel,Second Owner,chennai,9.5 Lakh*
+117,Hyundai,Accent,GLE,2008,"40,000 kms",Petrol,Second Owner,chennai,1.5 Lakh*
+118,Mahindra,TUV,300 T10 Dual Tone,2018,"35,000 kms",Diesel,First Owner,chennai,9.65 Lakh*
+119,Ford,Fiesta,1.4 Duratec ZXI,2007,"52,065 kms",Petrol,Second Owner,chennai,1.7 Lakh*
+120,Hyundai,Grand,i10 Magna AT,2016,"49,000 kms",Petrol,First Owner,chennai,4.9 Lakh*
+121,Hyundai,Creta,1.6 CRDi SX Plus,2017,"66,000 kms",Diesel,First Owner,chennai,11.5 Lakh*
+122,Hyundai,Creta,1.6 CRDi SX Plus,2017,"66,000 kms",Diesel,First Owner,chennai,11.45 Lakh*
+123,Maruti,Swift,VVT ZXI,2018,"44,000 kms",Petrol,First Owner,chennai,6 Lakh*
+124,Hyundai,i10,Sportz 1.2,2009,"75,375 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+125,Nissan,Sunny,XV D Premium Safety,2016,"42,250 kms",Diesel,First Owner,chennai,6.5 Lakh*
+126,Skoda,Octavia,Elegance 2.0 TDI AT,2014,"50,000 kms",Diesel,First Owner,chennai,14.5 Lakh*
+127,Renault,Lodgy,85PS RxZ,2015,"90,000 kms",Diesel,Second Owner,chennai,6.15 Lakh*
+128,Honda,City,i DTEC VX,2014,"45,000 kms",Diesel,Second Owner,chennai,7.6 Lakh*
+129,Toyota,Platinum,Etios 1.5 V,2018,"61,328 kms",Petrol,First Owner,chennai,6.2 Lakh*
+130,Tata,Zest,Revotron 1.2 XT,2017,"50,000 kms",Petrol,First Owner,chennai,4.25 Lakh*
+131,Maruti,Esteem,Vxi - BSIII,1995,"80,000 kms",Petrol,Second Owner,chennai,1 Lakh*
+132,Maruti,Swift,ZXI,2017,"44,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+133,Volkswagen,Polo,GT TSI,2016,"57,370 kms",Petrol,Second Owner,chennai,6.25 Lakh*
+134,Maruti,Swift,VXI Optional,2015,"41,911 kms",Petrol,First Owner,chennai,5.3 Lakh*
+135,Volkswagen,Vento,1.5 TDI Highline,2014,"1,30,654 kms",Diesel,First Owner,chennai,4.65 Lakh*
+136,Maruti,Swift,Dzire VXi AT,2016,"32,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+137,Ford,EcoSport,1.5 Ti VCT AT Titanium BSIV,2017,"73,000 kms",Petrol,First Owner,chennai,6.75 Lakh*
+138,Hyundai,Getz,GLS ABS,2006,"1,20,000 kms",Petrol,Second Owner,chennai,1.35 Lakh*
+139,Maruti,Celerio,ZXI AMT Optional,2019,"22,000 kms",Petrol,First Owner,chennai,5.25 Lakh*
+140,Mahindra,XUV500,W11 Option BSIV,2019,"31,800 kms",Diesel,First Owner,chennai,17.9 Lakh*
+141,Honda,City,i DTec V,2016,"56,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+142,Mahindra,Quanto,C8,2012,"47,000 kms",Diesel,First Owner,chennai,4.3 Lakh*
+143,Honda,Jazz,1.5 VX i DTEC,2015,"57,002 kms",Diesel,Second Owner,chennai,5.5 Lakh*
+144,Maruti,Alto,K10 2010-2014 VXI,2011,"42,000 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+145,Maruti,Alto,K10 LXI,2012,"44,423 kms",Petrol,First Owner,chennai,2.25 Lakh*
+146,Maruti,A,Star AT VXI,2011,"66,624 kms",Petrol,Second Owner,chennai,2.3 Lakh*
+147,Maruti,Celerio,ZDi,2016,"92,813 kms",Diesel,First Owner,chennai,3.6 Lakh*
+148,Maruti,Swift,1.3 LXI,2005,"50,000 kms",Petrol,Second Owner,chennai,1.8 Lakh*
+149,Mahindra,TUV,300 T8,2016,"47,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+150,Hyundai,Xcent,2016-2017 VTVT Plus ABS,2014,"2,400 kms",Petrol,First Owner,chennai,4.65 Lakh*
+151,Hyundai,Grand,i10 CRDi Magna,2016,"38,000 kms",Diesel,First Owner,chennai,5.25 Lakh*
+152,Toyota,Etios,G,2011,"57,000 kms",Petrol,First Owner,chennai,4.3 Lakh*
+153,Volkswagen,Vento,Diesel Highline,2012,"49,000 kms",Diesel,First Owner,chennai,5.65 Lakh*
+154,Hyundai,EON,Era Plus,2013,"49,000 kms",Petrol,Second Owner,chennai,2.7 Lakh*
+155,Mahindra,TUV,300 T8 AMT,2018,"51,000 kms",Diesel,First Owner,chennai,9.5 Lakh*
+156,Toyota,Corolla,Altis 1.8 VL AT,2010,"1,00,000 kms",Petrol,First Owner,chennai,4.6 Lakh*
+157,Hyundai,i20,Magna 1.4 CRDi,2011,"53,595 kms",Diesel,First Owner,chennai,3.6 Lakh*
+158,Hyundai,Verna,VTVT 1.6 SX,2018,"35,000 kms",Petrol,First Owner,chennai,8.75 Lakh*
+159,Hyundai,Santro,GLS II - Euro II,2000,"56,000 kms",Petrol,Third Owner,chennai,"99,000*"
+160,Mahindra,TUV,300 T8 AMT,2016,"66,000 kms",Diesel,First Owner,chennai,7.95 Lakh*
+161,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2016,"63,523 kms",Diesel,First Owner,chennai,18.3 Lakh*
+162,Maruti,Celerio,X AMT VXI BSIV,2018,"22,418 kms",Petrol,First Owner,chennai,4.75 Lakh*
+163,Hyundai,Verna,Transform CRDi VGT ABS,2011,"76,000 kms",Diesel,First Owner,chennai,3.6 Lakh*
+164,Hyundai,i20,1.4 CRDi Magna,2011,"53,595 kms",Diesel,First Owner,chennai,3.6 Lakh*
+165,Honda,Amaze,S i-Vtech,2015,"70,000 kms",Petrol,First Owner,chennai,4.35 Lakh*
+166,Mahindra,XUV500,AT W6 1.99 mHawk,2016,"60,000 kms",Diesel,Second Owner,chennai,9.79 Lakh*
+167,Maruti,Baleno,Zeta Automatic,2017,"60,000 kms",Petrol,Second Owner,chennai,5.5 Lakh*
+168,Hyundai,EON,Magna Plus,2016,"30,000 kms",Petrol,First Owner,chennai,3.35 Lakh*
+169,Mahindra,XUV500,2011-2015 W8 FWD,2015,"54,500 kms",Diesel,First Owner,chennai,9.5 Lakh*
+170,Hyundai,i10,Era,2008,"78,000 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+171,Honda,City,i-VTEC V,2018,"15,000 kms",Petrol,First Owner,chennai,9.5 Lakh*
+172,Toyota,Etios,Liva GD,2013,"44,000 kms",Diesel,First Owner,chennai,4.85 Lakh*
+173,Maruti,Swift,Dzire LDI,2019,"70,000 kms",Diesel,Second Owner,chennai,4.5 Lakh*
+174,Mercedes-Benz,C-Class,Progressive C 220d,2020,"12,000 kms",Diesel,First Owner,chennai,45 Lakh*
+175,Hyundai,Elantra,CRDi SX,2015,"23,000 kms",Diesel,First Owner,chennai,10.5 Lakh*
+176,Maruti,Wagon,R VXI,2020,"16,000 kms",Petrol,First Owner,chennai,5.2 Lakh*
+177,Tata,Nano,Twist XT,2014,"53,103 kms",Petrol,First Owner,chennai,1.6 Lakh*
+178,Fiat,Linea,T Jet Active,2014,"52,000 kms",Petrol,Second Owner,chennai,3.6 Lakh*
+179,Hyundai,Verna,SX CRDi AT,2013,"58,000 kms",Diesel,First Owner,chennai,6.7 Lakh*
+180,Volkswagen,Vento,1.5 TDI Highline AT,2016,"45,000 kms",Diesel,First Owner,chennai,9 Lakh*
+181,Hyundai,Santro,Xing XG,2004,"90,000 kms",Petrol,Third Owner,chennai,1.25 Lakh*
+182,Maruti,Esteem,Lxi - BSIII,2007,"70,000 kms",Petrol,Second Owner,chennai,1.59 Lakh*
+183,Toyota,Corolla,Altis Diesel D4DJ,2011,"1,12,800 kms",Diesel,First Owner,chennai,5.5 Lakh*
+184,Honda,Jazz,1.2 VX i VTEC,2016,"62,576 kms",Petrol,First Owner,chennai,5.75 Lakh*
+185,Hyundai,Santro,Xing XP,2003,"82,000 kms",Petrol,Second Owner,chennai,"99,000*"
+186,Mahindra,Renault,Logan 1.4 GLX Petrol,2008,"60,000 kms",Petrol,Third Owner,chennai,1.25 Lakh*
+187,Mercedes-Benz,E-Class,Exclusive E 200 BSIV,2017,"48,000 kms",Petrol,First Owner,chennai,38.5 Lakh*
+188,Audi,A6,2.7 TDI,2010,"70,000 kms",Diesel,First Owner,chennai,10 Lakh*
+189,Maruti,Versa,DX2 8-SEATER BSIII TWIN A/C,2005,"96,000 kms",Petrol,First Owner,chennai,1.5 Lakh*
+190,Hyundai,Santro,Xing XO,2006,"58,318 kms",Petrol,First Owner,chennai,1.6 Lakh*
+191,Honda,Jazz,1.2 V i VTEC,2018,"9,560 kms",Petrol,First Owner,chennai,7 Lakh*
+192,Toyota,Innova,2.5 G (Diesel) 8 Seater BS IV,2013,"1,70,000 kms",Diesel,Second Owner,chennai,9 Lakh*
+193,BMW,7,Series 740Li,2008,"1,44,000 kms",Petrol,First Owner,chennai,12 Lakh*
+194,Hyundai,i20,2015-2017 Sportz 1.2,2014,"60,000 kms",Petrol,First Owner,chennai,4.95 Lakh*
+195,Ford,Ecosport,1.5 DV5 MT Trend,2013,"80,000 kms",Diesel,First Owner,chennai,4.5 Lakh*
+196,Honda,City,1.3 EXI,2000,"1,20,000 kms",Petrol,Third Owner,chennai,1.55 Lakh*
+197,Chevrolet,Enjoy,1.3 TCDi LS 8,2016,"1,64,000 kms",Diesel,Second Owner,chennai,3.9 Lakh*
+198,Honda,City,i VTEC CVT VX,2015,"25,000 kms",Petrol,First Owner,chennai,7.25 Lakh*
+199,Maruti,Vitara,Brezza VDi,2017,"83,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+200,Maruti,Swift,VXI Optional,2015,"41,911 kms",Petrol,First Owner,chennai,5.3 Lakh*
+201,Volkswagen,Vento,1.5 TDI Highline,2014,"1,30,654 kms",Diesel,First Owner,chennai,4.65 Lakh*
+202,Hyundai,i20,Asta (o) 1.4 CRDi (Diesel),2016,"55,001 kms",Diesel,First Owner,chennai,6.1 Lakh*
+203,Maruti,Swift,Dzire VXi AT,2016,"32,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+204,Renault,Triber,RXT,2020,"5,000 kms",Petrol,First Owner,chennai,7.35 Lakh*
+205,Ford,EcoSport,1.5 Ti VCT AT Titanium BSIV,2017,"73,000 kms",Petrol,First Owner,chennai,6.75 Lakh*
+206,Hyundai,Getz,GLS ABS,2006,"1,20,000 kms",Petrol,Second Owner,chennai,1.35 Lakh*
+207,Maruti,Celerio,ZXI AMT Optional,2019,"22,000 kms",Petrol,First Owner,chennai,5.25 Lakh*
+208,Mahindra,XUV500,W11 Option BSIV,2019,"31,800 kms",Diesel,First Owner,chennai,17.9 Lakh*
+209,Honda,City,i DTec V,2016,"56,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+210,Maruti,Wagon,R AMT VXI,2017,"28,809 kms",Petrol,First Owner,chennai,4.7 Lakh*
+211,Mahindra,Quanto,C8,2012,"47,000 kms",Diesel,First Owner,chennai,4.3 Lakh*
+212,Honda,Jazz,1.5 VX i DTEC,2015,"57,002 kms",Diesel,Second Owner,chennai,5.5 Lakh*
+213,Maruti,Baleno,LXI,2006,"59,600 kms",Petrol,Third Owner,chennai,1.4 Lakh*
+214,Nissan,Micra,Diesel XV,2012,"91,546 kms",Diesel,First Owner,chennai,2.6 Lakh*
+215,Maruti,Alto,K10 2010-2014 VXI,2011,"42,000 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+216,Maruti,Alto,K10 LXI,2012,"44,423 kms",Petrol,First Owner,chennai,2.25 Lakh*
+217,Maruti,A,Star AT VXI,2011,"66,624 kms",Petrol,Second Owner,chennai,2.3 Lakh*
+218,Maruti,Celerio,ZDi,2016,"92,813 kms",Diesel,First Owner,chennai,3.6 Lakh*
+219,Maruti,Swift,1.3 LXI,2005,"50,000 kms",Petrol,Second Owner,chennai,1.8 Lakh*
+220,Honda,Civic,VX,2019,"4,650 kms",Petrol,First Owner,chennai,17.5 Lakh*
+221,Mahindra,TUV,300 T8,2016,"47,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+222,Hyundai,Xcent,2016-2017 VTVT Plus ABS,2014,"2,400 kms",Petrol,First Owner,chennai,4.65 Lakh*
+223,Hyundai,Grand,i10 CRDi Magna,2016,"38,000 kms",Diesel,First Owner,chennai,5.25 Lakh*
+224,Toyota,Etios,G,2011,"57,000 kms",Petrol,First Owner,chennai,4.3 Lakh*
+225,Volkswagen,Vento,Diesel Highline,2012,"49,000 kms",Diesel,First Owner,chennai,5.65 Lakh*
+226,Honda,Amaze,VX i-Vtech,2015,"43,000 kms",Petrol,First Owner,chennai,5.35 Lakh*
+227,Hyundai,EON,Era Plus,2013,"49,000 kms",Petrol,Second Owner,chennai,2.7 Lakh*
+228,Mahindra,TUV,300 T8 AMT,2018,"51,000 kms",Diesel,First Owner,chennai,9.5 Lakh*
+229,Hyundai,i20,Active S Petrol,2017,"34,000 kms",Petrol,First Owner,chennai,6.85 Lakh*
+230,Honda,Civic,1.8 S MT,2007,"1,00,000 kms",Petrol,Third Owner,chennai,1.6 Lakh*
+231,Toyota,Corolla,Altis 1.8 VL AT,2010,"1,00,000 kms",Petrol,First Owner,chennai,4.6 Lakh*
+232,Mahindra,KUV,100 mFALCON D75 K8,2016,"22,000 kms",Diesel,First Owner,chennai,4.9 Lakh*
+233,Hyundai,i20,Magna 1.4 CRDi,2011,"53,595 kms",Diesel,First Owner,chennai,3.6 Lakh*
+234,Hyundai,Verna,VTVT 1.6 SX,2018,"35,000 kms",Petrol,First Owner,chennai,8.75 Lakh*
+235,Hyundai,Santro,GLS II - Euro II,2000,"56,000 kms",Petrol,Third Owner,chennai,"99,000*"
+236,Mahindra,TUV,300 T8 AMT,2016,"66,000 kms",Diesel,First Owner,chennai,7.95 Lakh*
+237,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2016,"63,523 kms",Diesel,First Owner,chennai,18.3 Lakh*
+238,Honda,BRV,i-VTEC VX MT,2016,"7,000 kms",Petrol,First Owner,chennai,7.5 Lakh*
+239,Toyota,Innova,2.5 V Diesel 8-seater,2010,"1,70,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+240,Hyundai,Grand,i10 1.2 Kappa Asta,2013,"53,515 kms",Petrol,First Owner,chennai,3.75 Lakh*
+241,Mahindra,TUV,300 P4,2018,"33,999 kms",Diesel,First Owner,chennai,9.9 Lakh*
+242,Volkswagen,Polo,1.2 MPI Comfortline,2018,"70,000 kms",Petrol,First Owner,chennai,5.95 Lakh*
+243,Hyundai,i20,1.2 Era,2010,"60,000 kms",Petrol,Third Owner,chennai,3.1 Lakh*
+244,Hyundai,Santro,L2,1999,"80,000 kms",Petrol,Third Owner,chennai,"55,000*"
+245,BMW,5,Series 520d,2010,"90,000 kms",Diesel,Third Owner,chennai,7.5 Lakh*
+246,Hyundai,Santro,Xing GLS,2008,"90,000 kms",Petrol,Second Owner,chennai,1.6 Lakh*
+247,Chevrolet,Aveo,U-VA 1.2 LS,2007,"90,000 kms",Petrol,Third Owner,chennai,1.8 Lakh*
+248,Maruti,Wagon,R LXI,2005,"1,20,000 kms",Petrol,Second Owner,chennai,1.26 Lakh*
+249,Maruti,800,DX,2003,"80,000 kms",Petrol,Third Owner,chennai,"75,000*"
+250,Maruti,Eeco,7 Seater Standard BSIV,2012,"70,000 kms",Petrol,First Owner,chennai,2.1 Lakh*
+251,Ford,Fiesta,Titanium 1.5 TDCi,2013,"55,000 kms",Diesel,First Owner,chennai,4.6 Lakh*
+252,Porsche,Macan,S Diesel,2016,"80,000 kms",Diesel,Second Owner,chennai,50 Lakh*
+253,Honda,City,2017-2020 GXi,2008,"1,00,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+254,Mahindra,NuvoSport,N8,2016,"62,900 kms",Diesel,First Owner,chennai,6.5 Lakh*
+255,Hyundai,Creta,1.6 VTVT AT SX Plus,2017,"48,000 kms",Petrol,First Owner,chennai,10.8 Lakh*
+256,Honda,City,S,2012,"45,000 kms",Petrol,Second Owner,chennai,4.65 Lakh*
+257,Maruti,Baleno,Delta,2018,"13,980 kms",Petrol,First Owner,chennai,6.5 Lakh*
+258,Ford,Fiesta,1.4 SXi TDCi,2008,"1,15,800 kms",Diesel,Second Owner,chennai,2.1 Lakh*
+259,Mercedes-Benz,E-Class,E250 CDI Avantgrade,2014,"18,000 kms",Diesel,First Owner,chennai,27 Lakh*
+260,Ford,Fiesta,1.4 Duratorq EXI,2014,"1,18,054 kms",Diesel,Second Owner,chennai,2.8 Lakh*
+261,Ford,Fiesta,1.4 Duratorq ZXI,2012,"98,447 kms",Diesel,First Owner,chennai,2.7 Lakh*
+262,Hyundai,Creta,1.6 CRDi SX Plus,2017,"66,000 kms",Diesel,First Owner,chennai,11.5 Lakh*
+263,Maruti,Celerio,ZXI,2015,"49,291 kms",Petrol,First Owner,chennai,4 Lakh*
+264,Audi,A3,40 TFSI Premium Plus,2018,"48,000 kms",Petrol,First Owner,chennai,23 Lakh*
+265,Volkswagen,Polo,GT TSI,2017,"18,000 kms",Petrol,First Owner,chennai,8.25 Lakh*
+266,Chevrolet,Spark,1.0 LS,2008,"1,24,365 kms",Petrol,Second Owner,chennai,1.2 Lakh*
+267,Hyundai,i10,Magna 1.1 iTech SE,2008,"69,931 kms",Petrol,Second Owner,chennai,2 Lakh*
+268,Ford,Figo,Diesel EXI,2012,"95,076 kms",Diesel,First Owner,chennai,2.5 Lakh*
+269,Maruti,Wagon,R VXI 1.2,2015,"78,079 kms",Petrol,First Owner,chennai,3.6 Lakh*
+270,Maruti,Swift,1.3 VXi,2006,"80,000 kms",Petrol,Third Owner,chennai,1.9 Lakh*
+271,Ford,Figo,Diesel ZXI,2013,"72,000 kms",Diesel,First Owner,chennai,3.2 Lakh*
+272,Hyundai,i10,Asta,2011,"40,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+273,Maruti,Wagon,R VXI BS IV,2013,"30,000 kms",Petrol,First Owner,chennai,3.3 Lakh*
+274,Tata,Nano,LX,2012,"19,000 kms",Petrol,First Owner,chennai,1.25 Lakh*
+275,Maruti,Swift,VDI,2012,"1,20,000 kms",Diesel,First Owner,chennai,3.75 Lakh*
+276,Mahindra,XUV500,W10 AWD,2016,"85,000 kms",Diesel,Second Owner,chennai,11.5 Lakh*
+277,Audi,Q5,2.0 TDI,2012,"75,001 kms",Diesel,Second Owner,chennai,13.5 Lakh*
+278,Hyundai,Getz,1.1 GVS,2009,"62,208 kms",Petrol,First Owner,chennai,1.75 Lakh*
+279,Volkswagen,Ameo,1.2 MPI Comfortline,2017,"10,000 kms",Petrol,First Owner,chennai,5.25 Lakh*
+280,Hyundai,Santro,Xing XO,2006,"70,000 kms",Petrol,Second Owner,chennai,1.4 Lakh*
+281,Maruti,Swift,VXI,2020,"26,772 kms",Petrol,First Owner,chennai,5.98 Lakh*
+282,Honda,City,i VTEC CVT VX,2016,"35,000 kms",Petrol,First Owner,chennai,8.75 Lakh*
+283,Maruti,Swift,Dzire LXI,2014,"35,200 kms",Petrol,First Owner,chennai,4.55 Lakh*
+284,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"59,000 kms",Diesel,Second Owner,chennai,21 Lakh*
+285,Volkswagen,Polo,1.2 MPI Comfortline,2016,"60,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+286,Mahindra,Scorpio,VLX 2WD BSIV,2011,"1,10,000 kms",Diesel,First Owner,chennai,6.6 Lakh*
+287,Toyota,Innova,2.5 G (Diesel) 8 Seater BS IV,2008,"1,68,370 kms",Diesel,Second Owner,chennai,7.12 Lakh*
+288,Nissan,Sunny,XV,2013,"1,35,000 kms",Petrol,First Owner,chennai,4.25 Lakh*
+289,Maruti,Alto,K10 2010-2014 VXI,2013,"20,000 kms",Petrol,First Owner,chennai,2.95 Lakh*
+290,Hyundai,Creta,1.6 SX Automatic Diesel,2015,"84,000 kms",Diesel,First Owner,chennai,9.2 Lakh*
+291,Hyundai,EON,Era Plus,2013,"40,000 kms",Petrol,First Owner,chennai,2.9 Lakh*
+292,Toyota,Yaris,G,2018,"18,006 kms",Petrol,First Owner,chennai,9.3 Lakh*
+293,Maruti,Omni,MPI STD BSIV,2018,"20,000 kms",Petrol,First Owner,chennai,3.4 Lakh*
+294,Maruti,Swift,ZDI BSIV,2015,"40,000 kms",Diesel,First Owner,chennai,5.75 Lakh*
+295,Toyota,Corolla,Altis 1.8 J,2009,"44,000 kms",Petrol,First Owner,chennai,4.15 Lakh*
+296,Volkswagen,Jetta,2.0L TDI Highline,2015,"50,000 kms",Diesel,Fourth & Above Owner,chennai,6.25 Lakh*
+297,Maruti,Baleno,Delta 1.2,2017,"70,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+298,Ford,Endeavour,3.2 Titanium AT 4X4,2017,"91,000 kms",Diesel,First Owner,chennai,24 Lakh*
+299,Ford,Figo,1.5D Trend MT,2016,"60,000 kms",Diesel,First Owner,chennai,4.25 Lakh*
+300,Hyundai,i10,Era,2013,"30,000 kms",Petrol,Third Owner,chennai,2.85 Lakh*
+301,Renault,KWID,RXT,2015,"88,438 kms",Petrol,First Owner,chennai,2.9 Lakh*
+302,Mercedes-Benz,GLA,Class 200 Sport,2019,"4,000 kms",Petrol,First Owner,chennai,31.75 Lakh*
+303,Volkswagen,Polo,1.2 MPI Comfortline,2016,"60,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+304,Hyundai,i10,Sportz AT,2011,"50,000 kms",Petrol,Third Owner,chennai,2.75 Lakh*
+305,Maruti,Swift,VXI,2020,"26,772 kms",Petrol,First Owner,chennai,5.98 Lakh*
+306,Volkswagen,Ameo,1.2 MPI Comfortline,2017,"10,000 kms",Petrol,First Owner,chennai,5.25 Lakh*
+307,Skoda,Fabia,1.4 TDI Classic,2010,"1,51,613 kms",Diesel,First Owner,chennai,2.2 Lakh*
+308,Ford,Fiesta,Classic 1.4 Duratorq CLXI,2012,"1,20,000 kms",Diesel,Second Owner,chennai,2.7 Lakh*
+309,Ford,Endeavour,3.2 Titanium AT 4X4,2016,"69,000 kms",Diesel,Second Owner,chennai,24 Lakh*
+310,Tata,Indica,Vista Quadrajet LX,2011,"90,000 kms",Diesel,First Owner,chennai,2.75 Lakh*
+311,Hyundai,Grand,i10 Sportz,2016,"70,000 kms",Petrol,Second Owner,chennai,4.26 Lakh*
+312,Toyota,Innova,Crysta 2016-2020 2.4 ZX MT BSIV,2017,"80,000 kms",Diesel,First Owner,chennai,18.5 Lakh*
+313,Chevrolet,Enjoy,Petrol LS 8 Seater,2013,"70,000 kms",Petrol,First Owner,chennai,4 Lakh*
+314,Toyota,Corolla,H4,2005,"77,000 kms",Petrol,Second Owner,chennai,3 Lakh*
+315,Ford,Aspire,1.5 TDCi Titanium Plus,2017,"25,000 kms",Diesel,First Owner,chennai,7.25 Lakh*
+316,Ford,EcoSport,1.5 Diesel Titanium Plus BSIV,2017,"42,500 kms",Diesel,Second Owner,chennai,7 Lakh*
+317,Hyundai,Accent,Executive LPG,2010,"1,25,000 kms",LPG,Second Owner,chennai,2.1 Lakh*
+318,Hyundai,Grand,i10 AT Asta,2016,"25,000 kms",Petrol,First Owner,chennai,5 Lakh*
+319,Hyundai,Santro,GLS I - Euro I,2008,"78,848 kms",Petrol,First Owner,chennai,1.75 Lakh*
+320,Mercedes-Benz,B,Class B180 Sports,2014,"90,000 kms",Petrol,First Owner,chennai,11 Lakh*
+321,Mahindra,Xylo,H8 ABS with Airbags,2019,"50,000 kms",Diesel,First Owner,chennai,8 Lakh*
+322,Toyota,Camry,M/t,2006,"1,16,438 kms",Petrol,Third Owner,chennai,3.5 Lakh*
+323,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2016,"80,000 kms",Diesel,First Owner,chennai,18 Lakh*
+324,Maruti,Swift,VDI,2012,"1,14,000 kms",Diesel,First Owner,chennai,4.25 Lakh*
+325,Hyundai,EON,1.0 Era Plus,2018,"63,500 kms",Petrol,First Owner,chennai,3.5 Lakh*
+326,Mercedes-Benz,C-Class,Progressive C 220d,2019,"30,000 kms",Diesel,First Owner,chennai,39 Lakh*
+327,Toyota,Etios,G,2015,"80,000 kms",Petrol,First Owner,chennai,4.25 Lakh*
+328,Ford,Fiesta,1.4 SXi TDCi ABS,2008,"92,000 kms",Diesel,Third Owner,chennai,1.65 Lakh*
+329,Ford,Fiesta,Diesel Titanium Plus,2013,"69,200 kms",Diesel,Second Owner,chennai,4.35 Lakh*
+330,Volkswagen,Polo,Diesel Highline 1.2L,2012,"1,24,952 kms",Diesel,First Owner,chennai,3.5 Lakh*
+331,Ford,EcoSport,Sports Diesel,2020,"11,834 kms",Diesel,First Owner,chennai,12.75 Lakh*
+332,Maruti,Swift,Dzire ZXI,2015,"45,200 kms",Petrol,First Owner,chennai,5.1 Lakh*
+333,Fiat,Punto,1.3 Emotion,2009,"90,000 kms",Diesel,First Owner,chennai,2.3 Lakh*
+334,Hyundai,i20,Asta 1.2,2018,"21,623 kms",Petrol,First Owner,chennai,7.9 Lakh*
+335,Maruti,Ritz,VXI,2010,"1,13,998 kms",Petrol,Second Owner,chennai,2.1 Lakh*
+336,Maruti,Eeco,5 Seater AC BSIV,2018,"12,000 kms",Petrol,First Owner,chennai,3.95 Lakh*
+337,Hyundai,i20,1.2 Era,2010,"60,000 kms",Petrol,Third Owner,chennai,3.1 Lakh*
+338,Toyota,Innova,Crysta 2016-2020 2.8 GX AT BSIV,2018,"29,662 kms",Diesel,First Owner,chennai,19.25 Lakh*
+339,Honda,City,1.5 S MT,2010,"1,00,000 kms",Petrol,Second Owner,chennai,4.05 Lakh*
+340,Mahindra,Xylo,H4 ABS,2017,"1,20,000 kms",Diesel,First Owner,chennai,7.65 Lakh*
+341,Volvo,S90,D4 Inscription,2017,"31,000 kms",Diesel,First Owner,chennai,38.5 Lakh*
+342,BMW,5,Series 520d,2010,"90,000 kms",Diesel,Third Owner,chennai,7.5 Lakh*
+343,Hyundai,i20,Sportz Option 1.2,2016,"30,000 kms",Petrol,Second Owner,chennai,5.55 Lakh*
+344,Maruti,Swift,Dzire VDI,2017,"34,000 kms",Diesel,First Owner,chennai,6.5 Lakh*
+345,Honda,Amaze,VX i-Vtech,2015,"65,820 kms",Petrol,First Owner,chennai,5.2 Lakh*
+346,Hyundai,Grand,i10 Asta Option,2017,"50,000 kms",Petrol,First Owner,chennai,5.2 Lakh*
+347,Mercedes-Benz,C-Class,Progressive C 220d,2019,"30,000 kms",Diesel,First Owner,chennai,39 Lakh*
+348,Tata,Manza,Aura Quadrajet BS IV,2012,"82,127 kms",Diesel,First Owner,chennai,2.2 Lakh*
+349,Volkswagen,Vento,1.6 Highline Plus,2018,"31,000 kms",Petrol,First Owner,chennai,9.5 Lakh*
+350,Toyota,Innova,2.5 V Diesel 8-seater,2008,"1,70,000 kms",Diesel,First Owner,chennai,7.45 Lakh*
+351,Hyundai,Verna,VTVT 1.6 SX,2018,"26,000 kms",Petrol,First Owner,chennai,8.75 Lakh*
+352,Mahindra,Scorpio,VLX 2WD AIRBAG AT BSIV,2013,"1,50,000 kms",Diesel,Second Owner,chennai,6.6 Lakh*
+353,Maruti,Omni,5 Seater,2006,"70,000 kms",Petrol,Second Owner,chennai,1.1 Lakh*
+354,BMW,5,Series 520d Sedan,2012,"85,000 kms",Diesel,First Owner,chennai,15.5 Lakh*
+355,Hyundai,i20,Diesel Asta Option,2017,"80,000 kms",Diesel,Second Owner,chennai,5.6 Lakh*
+356,Maruti,Swift,Dzire Tour LXI,2015,"1,20,000 kms",Petrol,Second Owner,chennai,2.7 Lakh*
+357,Skoda,Superb,2.8 V6 AT,2011,"1,28,000 kms",Petrol,First Owner,chennai,6.5 Lakh*
+358,BMW,X6,xDrive30d,2012,"1,10,000 kms",Diesel,Second Owner,chennai,25 Lakh*
+359,Maruti,S-Presso,VXI Plus,2020,"4,000 kms",Petrol,First Owner,chennai,4.75 Lakh*
+360,Maruti,Swift,Dzire VXI,2013,"66,500 kms",Petrol,First Owner,chennai,4.75 Lakh*
+361,Maruti,Eeco,7 Seater Standard BSIV,2013,"32,000 kms",Petrol,First Owner,chennai,3.5 Lakh*
+362,Honda,Jazz,1.2 V i VTEC,2015,"85,910 kms",Petrol,First Owner,chennai,5.1 Lakh*
+363,Maruti,Swift,Dzire VDI,2015,"1,20,000 kms",Diesel,First Owner,chennai,6.2 Lakh*
+364,Honda,City,i DTEC VX,2015,"74,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+365,Maruti,A,Star Lxi,2010,"53,665 kms",Petrol,First Owner,chennai,2.3 Lakh*
+366,Hyundai,Xcent,1.2 Kappa SX,2015,"76,000 kms",Petrol,First Owner,chennai,4.25 Lakh*
+367,Mahindra,Marazzo,M8 8Str,2020,"14,000 kms",Diesel,First Owner,chennai,14.75 Lakh*
+368,Renault,KWID,1.0 RXT Optional,2017,"51,973 kms",Petrol,First Owner,chennai,3.75 Lakh*
+369,Hyundai,Creta,1.6 CRDi SX,2016,"57,900 kms",Diesel,First Owner,chennai,9.75 Lakh*
+370,Mahindra,XUV500,W10 AWD,2016,"85,000 kms",Diesel,Second Owner,chennai,11.5 Lakh*
+371,Maruti,Swift,LDI,2012,"66,973 kms",Diesel,First Owner,chennai,3.85 Lakh*
+372,Hyundai,Creta,1.6 VTVT AT SX Plus,2017,"48,000 kms",Petrol,First Owner,chennai,10.8 Lakh*
+373,Volkswagen,Polo,GT TSI,2017,"18,000 kms",Petrol,First Owner,chennai,8.25 Lakh*
+374,Ford,EcoSport,1.5 Petrol Titanium Plus AT,2018,"30,000 kms",Petrol,First Owner,chennai,9.75 Lakh*
+375,BMW,3,Series 320d Prestige,2015,"85,000 kms",Diesel,Second Owner,chennai,15.9 Lakh*
+376,BMW,7,Series Signature 730Ld,2015,"26,000 kms",Diesel,First Owner,chennai,39.9 Lakh*
+377,Maruti,Celerio,ZXI,2015,"49,291 kms",Petrol,First Owner,chennai,4 Lakh*
+378,Maruti,Ritz,VDI (ABS) BS IV,2010,"1,33,864 kms",Diesel,First Owner,chennai,2.4 Lakh*
+379,Maruti,Eeco,5 Seater AC BSIV,2014,"64,000 kms",Petrol,First Owner,chennai,3.65 Lakh*
+380,Toyota,Qualis,FS F3,2004,"2,02,000 kms",Diesel,Second Owner,chennai,2.6 Lakh*
+381,Toyota,Innova,2.5 Z Diesel 7 Seater,2015,"1,40,000 kms",Diesel,First Owner,chennai,13.5 Lakh*
+382,Mahindra,TUV,300 T8 AMT,2016,"38,000 kms",Diesel,First Owner,chennai,8.75 Lakh*
+383,Volkswagen,Vento,1.2 TSI Highline Plus AT,2018,"32,900 kms",Petrol,First Owner,chennai,9.5 Lakh*
+384,Maruti,Wagon,R VXI AMT,2018,"71,250 kms",Petrol,First Owner,chennai,4.5 Lakh*
+385,Mahindra,XUV500,W10 2WD,2015,"42,000 kms",Diesel,First Owner,chennai,11.8 Lakh*
+386,Hyundai,Santro,Xing GLS,2012,"6,53,00 kms",Petrol,First Owner,chennai,2.35 Lakh*
+387,Mahindra,Bolero,Sports,2006,"1,40,000 kms",Diesel,Third Owner,chennai,2.5 Lakh*
+388,Volkswagen,Ameo,1.5 TDI Highline AT 16 Alloy,2017,"31,492 kms",Diesel,First Owner,chennai,6.75 Lakh*
+389,Hyundai,Getz,1.1 GVS,2009,"62,208 kms",Petrol,First Owner,chennai,1.75 Lakh*
+390,Maruti,Swift,Dzire ZXI,2012,"38,000 kms",Petrol,Second Owner,chennai,4.85 Lakh*
+391,Maruti,800,AC BSII,2003,"63,000 kms",Petrol,Second Owner,chennai,"82,000*"
+392,Honda,City,1.3 DX,2002,"1,43,000 kms",Petrol,Second Owner,chennai,1.2 Lakh*
+393,Hyundai,i20,2015-2017 Magna 1.2,2017,"16,000 kms",Petrol,First Owner,chennai,5.95 Lakh*
+394,Hyundai,i10,Sportz AT,2012,"65,000 kms",Petrol,Second Owner,chennai,3.25 Lakh*
+395,Maruti,Alto,LXi,2007,"54,100 kms",Petrol,Second Owner,chennai,1.5 Lakh*
+396,Nissan,Micra,Active XV Petrol,2018,"45,014 kms",Petrol,First Owner,chennai,4.5 Lakh*
+397,Mahindra,Scorpio,VLX 2WD BSIV,2011,"1,10,000 kms",Diesel,First Owner,chennai,6.6 Lakh*
+398,Maruti,Eeco,5 Seater AC,2016,"45,000 kms",Petrol,First Owner,chennai,3.85 Lakh*
+399,Ford,EcoSport,1.5 Petrol Titanium AT,2018,"19,999 kms",Petrol,First Owner,chennai,9.9 Lakh*
+400,Mahindra,TUV,300 T10 Dual Tone,2017,"42,900 kms",Diesel,First Owner,chennai,9.75 Lakh*
+401,Ford,EcoSport,Titanium Plus AT,2018,"35,100 kms",Petrol,First Owner,chennai,9.25 Lakh*
+402,Mahindra,NuvoSport,N8,2016,"62,900 kms",Diesel,First Owner,chennai,6.5 Lakh*
+403,Hyundai,EON,1.0 Era Plus,2018,"63,500 kms",Petrol,First Owner,chennai,3.5 Lakh*
+404,Ford,Fiesta,Classic 1.4 Duratorq LXI,2011,"1,20,000 kms",Diesel,Second Owner,chennai,3 Lakh*
+405,Volkswagen,Vento,Diesel Highline,2012,"44,000 kms",Diesel,First Owner,chennai,5.25 Lakh*
+406,Honda,Jazz,1.2 VX i VTEC,2016,"23,870 kms",Petrol,First Owner,chennai,6.2 Lakh*
+407,Hyundai,Santro,GLS I - Euro I,2008,"78,848 kms",Petrol,First Owner,chennai,1.75 Lakh*
+408,Honda,WR-V,i-VTEC VX,2018,"17,000 kms",Petrol,First Owner,chennai,8.75 Lakh*
+409,Maruti,Alto,LXi,2009,"70,000 kms",Petrol,First Owner,chennai,1.4 Lakh*
+410,Honda,City,2017-2020 GXi,2008,"1,00,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+411,Mahindra,TUV,300 P4,2018,"33,999 kms",Diesel,First Owner,chennai,9.9 Lakh*
+412,Maruti,Eeco,5 Seater AC BSIV,2018,"2,300 kms",Petrol,First Owner,chennai,4.45 Lakh*
+413,Hyundai,i10,Sportz 1.2,2016,"24,613 kms",Petrol,First Owner,chennai,4.1 Lakh*
+414,Maruti,Gypsy,W410 4X4,2008,"10,000 kms",Petrol,First Owner,chennai,4.5 Lakh*
+415,Ford,Fiesta,1.4 Duratorq ZXI,2012,"98,447 kms",Diesel,First Owner,chennai,2.7 Lakh*
+416,Honda,City,i DTec V,2016,"60,000 kms",Diesel,First Owner,chennai,8 Lakh*
+417,Maruti,Alto,K10 VXI AGS,2014,"24,000 kms",Petrol,Second Owner,chennai,3 Lakh*
+418,Volkswagen,Polo,2015-2019 GT TDI Sport Edition,2015,"85,000 kms",Diesel,Second Owner,chennai,5.3 Lakh*
+419,Ford,Endeavour,Titanium Plus 4X4,2016,"1,10,000 kms",Diesel,First Owner,chennai,22 Lakh*
+420,Toyota,Etios,Liva VX,2014,"48,100 kms",Petrol,First Owner,chennai,4.6 Lakh*
+421,Hyundai,Santro,Xing GLS,2008,"90,000 kms",Petrol,Second Owner,chennai,1.6 Lakh*
+422,Honda,City,i VTEC CVT SV,2016,"74,055 kms",Petrol,First Owner,chennai,6.9 Lakh*
+423,Maruti,Alto,K10 VXI,2017,"16,910 kms",Petrol,First Owner,chennai,3.45 Lakh*
+424,Hyundai,Grand,i10 CRDi Magna,2013,"49,000 kms",Diesel,First Owner,chennai,4.25 Lakh*
+425,Ford,Figo,Titanium Diesel,2020,"2,282 kms",Diesel,First Owner,chennai,7.3 Lakh*
+426,Hyundai,Creta,1.4 CRDi S,2017,"60,000 kms",Diesel,First Owner,chennai,11 Lakh*
+427,Ford,Fiesta,Titanium 1.5 TDCi,2013,"55,000 kms",Diesel,First Owner,chennai,4.6 Lakh*
+428,Toyota,Innova,Crysta 2016-2020 2.4 VX MT,2017,"39,000 kms",Diesel,First Owner,chennai,19 Lakh*
+429,Mercedes-Benz,GLA,Class 200 CDI SPORT,2015,"1,01,500 kms",Diesel,First Owner,chennai,18.5 Lakh*
+430,Maruti,Alto,K10 LXI Optional,2016,"53,000 kms",Petrol,First Owner,chennai,3 Lakh*
+431,BMW,3,Series 320d Luxury Line,2017,"15,000 kms",Diesel,First Owner,chennai,30 Lakh*
+432,Volkswagen,Polo,Diesel Comfortline 1.2L,2012,"83,000 kms",Diesel,First Owner,chennai,3.49 Lakh*
+433,Hyundai,Verna,1.4 CRDi,2014,"59,475 kms",Diesel,Second Owner,chennai,4.6 Lakh*
+434,Hyundai,i10,Asta,2011,"40,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+435,Hyundai,Grand,i10 1.2 Kappa Sportz BSIV,2019,"7,900 kms",Petrol,Second Owner,chennai,5.2 Lakh*
+436,Hyundai,i20,Sportz,2020,"7,750 kms",Petrol,First Owner,chennai,7.9 Lakh*
+437,Honda,Jazz,1.2 VX i VTEC,2016,"25,000 kms",Petrol,Second Owner,chennai,5.35 Lakh*
+438,Hyundai,i10,Magna 1.2 iTech SE,2012,"50,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+439,Chevrolet,Aveo,U-VA 1.2 LT,2007,"87,000 kms",Petrol,Second Owner,chennai,"85,000*"
+440,Honda,City,i DTec V,2016,"56,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+441,Maruti,Swift,AMT VXI,2018,"20,000 kms",Petrol,First Owner,chennai,6.5 Lakh*
+442,Hyundai,Santro,Xing XG AT,2005,"73,000 kms",Petrol,First Owner,chennai,2.1 Lakh*
+443,Maruti,Baleno,Alpha 1.3,2019,"35,000 kms",Diesel,First Owner,chennai,8.2 Lakh*
+444,Mahindra,XUV500,W8 2WD,2012,"1,76,000 kms",Diesel,First Owner,chennai,7.25 Lakh*
+445,Honda,City,i-VTEC CVT V,2018,"15,000 kms",Petrol,First Owner,chennai,9.99 Lakh*
+446,Maruti,Swift,LXI,2021,"5,000 kms",Petrol,First Owner,chennai,4.5 Lakh*
+447,Maruti,SX4,S Cross DDiS 200 Zeta,2016,"76,000 kms",Diesel,First Owner,chennai,7.1 Lakh*
+448,Hyundai,i10,Sportz,2013,"30,000 kms",Petrol,Third Owner,chennai,3.2 Lakh*
+449,Hyundai,i10,Magna,2011,"70,930 kms",Petrol,First Owner,chennai,2.7 Lakh*
+450,Maruti,Swift,VDI,2012,"1,20,000 kms",Diesel,First Owner,chennai,3.75 Lakh*
+451,Honda,Jazz,1.2 VX i VTEC,2016,"43,667 kms",Petrol,First Owner,chennai,5.4 Lakh*
+452,Chevrolet,Enjoy,Petrol LS 8 Seater,2013,"70,000 kms",Petrol,First Owner,chennai,4 Lakh*
+453,Volkswagen,Vento,1.2 TSI Highline BSIV,2019,"18,000 kms",Petrol,First Owner,chennai,9.75 Lakh*
+454,Hyundai,i10,Magna 1.2 iTech SE,2015,"25,000 kms",Petrol,Second Owner,chennai,3.95 Lakh*
+455,Ford,Figo,Diesel EXI Option,2010,"65,000 kms",Diesel,First Owner,chennai,2.75 Lakh*
+456,Toyota,Camry,Hybrid 2.5,2018,"20,000 kms",Petrol,First Owner,chennai,32 Lakh*
+457,Toyota,Fortuner,4x4 MT,2014,"40,000 kms",Diesel,First Owner,chennai,19.5 Lakh*
+458,Hyundai,i20,1.4 CRDi Magna,2011,"66,000 kms",Diesel,Second Owner,chennai,3.45 Lakh*
+459,Mahindra,Renault,Logan 1.5 DLE Diesel,2009,"1,78,587 kms",Diesel,First Owner,chennai,1 Lakh*
+460,Hyundai,Elantra,2.0 S,2017,"10,000 kms",Petrol,First Owner,chennai,11.25 Lakh*
+461,Maruti,Ertiga,VDI,2012,"1,00,000 kms",Diesel,First Owner,chennai,5.75 Lakh*
+462,Hyundai,i10,Sportz AT,2011,"41,000 kms",Petrol,First Owner,chennai,3.6 Lakh*
+463,Hyundai,i10,Magna 1.2 iTech SE,2012,"39,000 kms",Petrol,First Owner,chennai,3.25 Lakh*
+464,Hyundai,Verna,1.6 SX CRDi (O),2013,"85,000 kms",Diesel,Second Owner,chennai,5 Lakh*
+465,Hyundai,i10,Sportz,2011,"43,000 kms",Petrol,First Owner,chennai,2.85 Lakh*
+466,Hyundai,i20,Petrol Asta Dual Tone,2018,"9,700 kms",Petrol,First Owner,chennai,7.1 Lakh*
+467,Maruti,SX4,S Cross DDiS 200 Zeta,2016,"76,000 kms",Diesel,First Owner,chennai,7.1 Lakh*
+468,Hyundai,i10,Sportz,2013,"30,000 kms",Petrol,Third Owner,chennai,3.2 Lakh*
+469,Hyundai,i10,Magna,2011,"70,930 kms",Petrol,First Owner,chennai,2.7 Lakh*
+470,Maruti,Swift,VDI,2012,"1,20,000 kms",Diesel,First Owner,chennai,3.75 Lakh*
+471,Honda,Jazz,1.2 VX i VTEC,2016,"43,667 kms",Petrol,First Owner,chennai,5.4 Lakh*
+472,Chevrolet,Enjoy,Petrol LS 8 Seater,2013,"70,000 kms",Petrol,First Owner,chennai,4 Lakh*
+473,Volkswagen,Vento,1.2 TSI Highline BSIV,2019,"18,000 kms",Petrol,First Owner,chennai,9.75 Lakh*
+474,Hyundai,i10,Magna 1.2 iTech SE,2015,"25,000 kms",Petrol,Second Owner,chennai,3.95 Lakh*
+475,Ford,Figo,Diesel EXI Option,2010,"65,000 kms",Diesel,First Owner,chennai,2.75 Lakh*
+476,Toyota,Camry,Hybrid 2.5,2018,"20,000 kms",Petrol,First Owner,chennai,32 Lakh*
+477,Toyota,Fortuner,4x4 MT,2014,"40,000 kms",Diesel,First Owner,chennai,19.5 Lakh*
+478,Hyundai,i20,1.4 CRDi Magna,2011,"66,000 kms",Diesel,Second Owner,chennai,3.45 Lakh*
+479,Mahindra,Renault,Logan 1.5 DLE Diesel,2009,"1,78,587 kms",Diesel,First Owner,chennai,1 Lakh*
+480,Hyundai,Elantra,2.0 S,2017,"10,000 kms",Petrol,First Owner,chennai,11.25 Lakh*
+481,Maruti,Ertiga,VDI,2012,"1,00,000 kms",Diesel,First Owner,chennai,5.75 Lakh*
+482,Hyundai,i10,Sportz AT,2011,"41,000 kms",Petrol,First Owner,chennai,3.6 Lakh*
+483,Hyundai,i10,Magna 1.2 iTech SE,2012,"39,000 kms",Petrol,First Owner,chennai,3.25 Lakh*
+484,Hyundai,Verna,1.6 SX CRDi (O),2013,"85,000 kms",Diesel,Second Owner,chennai,5 Lakh*
+485,Hyundai,i10,Sportz,2011,"43,000 kms",Petrol,First Owner,chennai,2.85 Lakh*
+486,Hyundai,i20,Petrol Asta Dual Tone,2018,"9,700 kms",Petrol,First Owner,chennai,7.1 Lakh*
+487,Tata,Indica,DLS,2011,"71,230 kms",Diesel,First Owner,chennai,1.4 Lakh*
+488,Ford,Figo,Diesel ZXI,2012,"98,447 kms",Diesel,First Owner,chennai,2.7 Lakh*
+489,Maruti,Wagon,R VXI 1.2,2015,"78,079 kms",Petrol,First Owner,chennai,3.6 Lakh*
+490,Toyota,Etios,G,2013,"57,580 kms",Petrol,First Owner,chennai,4 Lakh*
+491,Maruti,Baleno,Delta,2018,"13,980 kms",Petrol,First Owner,chennai,6.5 Lakh*
+492,Hyundai,i20,Asta 1.4 CRDi (Diesel),2011,"76,000 kms",Diesel,Second Owner,chennai,3.75 Lakh*
+493,Maruti,Zen,Estilo LXI BS IV,2008,"24,000 kms",Petrol,First Owner,chennai,1.75 Lakh*
+494,Maruti,Wagon,R VXI BS IV,2013,"30,000 kms",Petrol,First Owner,chennai,3.3 Lakh*
+495,Mahindra,Scorpio,2.6 SLX,2005,"96,843 kms",Diesel,Fourth & Above Owner,chennai,2.4 Lakh*
+496,Maruti,Ciaz,ZXi,2016,"50,000 kms",Petrol,First Owner,chennai,7 Lakh*
+497,Renault,Duster,110PS Diesel RxZ,2017,"23,000 kms",Diesel,Second Owner,chennai,9.5 Lakh*
+498,Honda,Brio,V MT,2013,"55,900 kms",Petrol,First Owner,chennai,3.9 Lakh*
+499,Toyota,Innova,2.5 V Diesel 8-seater,2010,"1,70,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+500,BMW,7,Series 730Ld,2016,"40,000 kms",Diesel,First Owner,chennai,65 Lakh*
+501,Toyota,Corolla,Altis G MT,2016,"34,000 kms",Petrol,First Owner,chennai,11.5 Lakh*
+502,Maruti,Swift,Dzire LXI,2014,"35,200 kms",Petrol,First Owner,chennai,4.55 Lakh*
+503,Honda,City,i DTec SV,2014,"80,000 kms",Diesel,First Owner,chennai,6.5 Lakh*
+504,Mahindra,XUV500,W8 4WD,2014,"66,000 kms",Diesel,First Owner,chennai,9.75 Lakh*
+505,Toyota,Etios,Liva 1.4 GD,2016,"1,37,700 kms",Diesel,First Owner,chennai,4.8 Lakh*
+506,Hyundai,i20,1.4 Asta,2017,"45,007 kms",Diesel,First Owner,chennai,7 Lakh*
+507,Maruti,Celerio,VXI AT,2014,"27,000 kms",Petrol,First Owner,chennai,3.75 Lakh*
+508,Renault,KWID,1.0 RXT AMT BSIV,2019,"22,645 kms",Petrol,First Owner,chennai,4.8 Lakh*
+509,Ford,EcoSport,1.5 Petrol Titanium Plus,2018,"29,999 kms",Petrol,First Owner,chennai,9.9 Lakh*
+510,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2016,"80,000 kms",Diesel,First Owner,chennai,18 Lakh*
+511,Mahindra,XUV500,W8 2WD,2013,"1,09,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+512,Volkswagen,Vento,1.2 TSI Highline AT,2016,"55,000 kms",Petrol,First Owner,chennai,8 Lakh*
+513,Tata,Zest,Quadrajet 1.3 XMS,2015,"80,000 kms",Diesel,First Owner,chennai,4.75 Lakh*
+514,BMW,X3,xDrive30d M Sport,2016,"93,515 kms",Diesel,Second Owner,chennai,30 Lakh*
+515,Ford,Figo,Petrol EXI,2014,"14,000 kms",Petrol,First Owner,chennai,3.85 Lakh*
+516,Hyundai,Grand,i10 Sportz,2016,"70,000 kms",Petrol,Second Owner,chennai,4.26 Lakh*
+517,Honda,Amaze,S i-Dtech,2014,"88,000 kms",Diesel,First Owner,chennai,4.7 Lakh*
+518,Tata,Indica,DLS BSIII,2014,"1,50,000 kms",Diesel,Second Owner,chennai,1.2 Lakh*
+519,Honda,City,i VTEC CVT VX,2015,"20,000 kms",Petrol,First Owner,chennai,7.5 Lakh*
+520,Ford,EcoSport,1.5 Diesel Titanium,2020,"23,000 kms",Diesel,First Owner,chennai,10.25 Lakh*
+521,Maruti,Wagon,R LXI BSIII,2009,"90,329 kms",Petrol,Second Owner,chennai,1.9 Lakh*
+522,Fiat,Grande,Punto 1.3 Dynamic (Diesel),2011,"84,500 kms",Diesel,Second Owner,chennai,2.45 Lakh*
+523,Volkswagen,Polo,1.5 TDI Highline,2014,"56,000 kms",Diesel,First Owner,chennai,5.4 Lakh*
+524,Maruti,Swift,Dzire VXI 1.2,2019,"25,000 kms",Petrol,First Owner,chennai,6.7 Lakh*
+525,Volkswagen,Polo,1.0 MPI Trendline BSIV,2019,"14,676 kms",Petrol,First Owner,chennai,6.7 Lakh*
+526,Skoda,Fabia,1.4 TDI Classic,2010,"1,51,613 kms",Diesel,First Owner,chennai,2.2 Lakh*
+527,Maruti,Swift,ZDI,2015,"80,000 kms",Diesel,First Owner,chennai,5.45 Lakh*
+528,Ford,Fiesta,1.4 Duratorq ZXI,2013,"71,269 kms",Diesel,First Owner,chennai,3.2 Lakh*
+529,Maruti,Esteem,Lxi - BSIII,2006,"70,000 kms",Petrol,Second Owner,chennai,1.7 Lakh*
+530,Tata,Indica,Vista Aqua 1.3 Quadrajet BSIV,2010,"75,000 kms",Diesel,First Owner,chennai,2.15 Lakh*
+531,Mercedes-Benz,M-Class,ML 350 CDI,2013,"1,20,000 kms",Diesel,First Owner,chennai,24 Lakh*
+532,Maruti,Wagon,R VXI,2015,"85,465 kms",Petrol,First Owner,chennai,3.6 Lakh*
+533,Hyundai,i20,1.2 Magna,2011,"53,595 kms",Petrol,First Owner,chennai,3.6 Lakh*
+534,Tata,Nexon,1.2 Revotron XZA Plus,2019,"38,738 kms",Petrol,First Owner,chennai,9 Lakh*
+535,Skoda,Octavia,Elegance 1.9 TDI,2005,"1,79,000 kms",Diesel,Second Owner,chennai,1.9 Lakh*
+536,Honda,Jazz,1.2 V i VTEC,2016,"71,545 kms",Petrol,Second Owner,chennai,4.6 Lakh*
+537,Ford,Figo,1.5D Titanium MT,2010,"83,851 kms",Diesel,First Owner,chennai,2.5 Lakh*
+538,Honda,WR-V,i-DTEC VX,2017,"86,046 kms",Diesel,First Owner,chennai,7.4 Lakh*
+539,Maruti,Baleno,Zeta 1.2,2018,"14,000 kms",Petrol,First Owner,chennai,7.5 Lakh*
+540,Ford,Figo,Aspire Titanium Plus Diesel,2020,"2,310 kms",Diesel,First Owner,chennai,8.2 Lakh*
+541,Renault,Pulse,Petrol RxZ,2012,"98,000 kms",Petrol,Second Owner,chennai,3.1 Lakh*
+542,Honda,Brio,S MT,2013,"53,411 kms",Petrol,First Owner,chennai,3.5 Lakh*
+543,Hyundai,Verna,1.6 SX,2013,"80,000 kms",Diesel,Second Owner,chennai,4.9 Lakh*
+544,Toyota,Innova,Crysta 2016-2020 2.4 ZX MT,2019,"27,000 kms",Diesel,First Owner,chennai,23.85 Lakh*
+545,Maruti,Alto,800 LXI,2018,"42,096 kms",Petrol,First Owner,chennai,3.2 Lakh*
+546,Mahindra,Xylo,H4 ABS,2018,"70,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+547,Ford,Aspire,1.5 TDCi Titanium,2017,"1,17,000 kms",Diesel,First Owner,chennai,4.6 Lakh*
+548,Hyundai,Grand,i10 1.2 Kappa Magna AT,2017,"15,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+549,Toyota,Innova,Crysta 2016-2020 2.4 ZX MT BSIV,2017,"80,000 kms",Diesel,First Owner,chennai,18.5 Lakh*
+550,Maruti,Ciaz,ZDi,2017,"89,568 kms",Diesel,First Owner,chennai,7.5 Lakh*
+551,Honda,Brio,VX,2014,"28,000 kms",Petrol,Second Owner,chennai,3.5 Lakh*
+552,Maruti,Wagon,R VXI Optional,2017,"2,895 kms",Petrol,First Owner,chennai,4.5 Lakh*
+553,Ford,Ecosport,1.5 DV5 MT Trend,2013,"80,000 kms",Diesel,Second Owner,chennai,4.5 Lakh*
+554,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2017,"47,000 kms",Diesel,First Owner,chennai,19.7 Lakh*
+555,Maruti,Eeco,5 Seater STD,2017,"24,902 kms",Petrol,First Owner,chennai,3.9 Lakh*
+556,BMW,7,Series 730Ld,2008,"80,000 kms",Diesel,First Owner,chennai,12.5 Lakh*
+557,Ford,Figo,Petrol ZXI,2010,"91,000 kms",Petrol,Second Owner,chennai,2 Lakh*
+558,Hyundai,Verna,1.6 SX VTVT,2014,"80,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+559,Hyundai,Verna,XXi (Petrol),2008,"80,000 kms",Petrol,Second Owner,chennai,1.6 Lakh*
+560,Mahindra,Bolero,2011-2019 ZLX BSIII,2012,"85,000 kms",Diesel,First Owner,chennai,4.8 Lakh*
+561,Maruti,Ignis,1.2 AMT Delta BSIV,2017,"21,900 kms",Petrol,First Owner,chennai,5.35 Lakh*
+562,Hyundai,i10,Sportz,2012,"68,094 kms",Petrol,First Owner,chennai,2.8 Lakh*
+563,Toyota,Innova,2.5 G (Diesel) 8 Seater,2013,"1,10,000 kms",Diesel,Second Owner,chennai,9.5 Lakh*
+564,Tata,Indica,DLE - BSIII,2005,"1,80,000 kms",Diesel,Third Owner,chennai,"80,031*"
+565,Volkswagen,Polo,1.5 TDI Highline,2015,"88,659 kms",Diesel,Second Owner,chennai,4.75 Lakh*
+566,Maruti,Alto,800 LXI,2019,"5,000 kms",Petrol,First Owner,chennai,3 Lakh*
+567,Hyundai,Grand,i10 1.2 Kappa Magna BSIV,2017,"16,800 kms",Petrol,First Owner,chennai,5 Lakh*
+568,Ambassador,Classic,2000 DSZ AC PS,1989,"70,000 kms",Diesel,Second Owner,chennai,"90,000*"
+569,Hyundai,i20,1.2 Spotz,2017,"30,000 kms",Petrol,First Owner,chennai,5.95 Lakh*
+570,Hyundai,i20,Asta 1.4 CRDi,2013,"1,54,059 kms",Diesel,First Owner,chennai,3.65 Lakh*
+571,Ford,EcoSport,Titanium Plus AT,2019,"7,726 kms",Petrol,Second Owner,chennai,9.5 Lakh*
+572,Hyundai,Venue,SX Plus Turbo DCT BSIV,2019,"6,000 kms",Petrol,First Owner,chennai,11.25 Lakh*
+573,Volkswagen,Vento,1.5 TDI Comfortline,2017,"9,000 kms",Diesel,First Owner,chennai,9.5 Lakh*
+574,Maruti,Swift,Dzire Tour 2012-2018 LDI,2018,"81,000 kms",Diesel,First Owner,chennai,5.5 Lakh*
+575,Ford,Fiesta,Classic 1.4 Duratorq CLXI,2012,"1,20,000 kms",Diesel,Second Owner,chennai,2.7 Lakh*
+576,BMW,5,Series GT 530d LE,2011,"80,000 kms",Diesel,First Owner,chennai,27 Lakh*
+577,Maruti,Swift,Dzire VXI 1.2 BS IV,2017,"30,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+578,Maruti,Baleno,Zeta 1.2,2018,"17,000 kms",Petrol,First Owner,chennai,7.5 Lakh*
+579,Volkswagen,Vento,Petrol Highline,2010,"92,585 kms",Petrol,Second Owner,chennai,3.4 Lakh*
+580,Audi,A5,Sportback,2017,"21,000 kms",Diesel,First Owner,chennai,39.75 Lakh*
+581,Mahindra,Bolero,B2,2020,"10,000 kms",Diesel,First Owner,chennai,7.8 Lakh*
+582,Maruti,Vitara,Brezza VDi,2017,"83,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+583,Hyundai,i10,Sportz AT,2011,"53,000 kms",Petrol,Second Owner,chennai,2.85 Lakh*
+584,Maruti,Baleno,LXI,2005,"67,060 kms",Petrol,First Owner,chennai,1.1 Lakh*
+585,Tata,Indigo,CR4,2008,"1,15,565 kms",Diesel,First Owner,chennai,1.25 Lakh*
+586,BMW,3,Series 320d GT Luxury Line,2015,"55,000 kms",Diesel,First Owner,chennai,25.5 Lakh*
+587,Mercedes-Benz,M-Class,ML 250 CDI,2015,"30,000 kms",Diesel,Second Owner,chennai,30 Lakh*
+588,Hyundai,Verna,1.6 SX VTVT (O) AT,2017,"25,851 kms",Petrol,First Owner,chennai,7.9 Lakh*
+589,Honda,City,i VTEC CVT SV,2016,"37,000 kms",Petrol,First Owner,chennai,7.75 Lakh*
+590,Hyundai,Verna,1.6 VTVT AT SX,2017,"25,851 kms",Petrol,First Owner,chennai,7.9 Lakh*
+591,Maruti,Alto,LX,2011,"50,000 kms",Petrol,Second Owner,chennai,1.75 Lakh*
+592,Maruti,Alto,LXi,2012,"55,000 kms",Petrol,Second Owner,chennai,1.72 Lakh*
+593,Hyundai,i20,Active 1.4 SX with AVN,2015,"50,000 kms",Diesel,First Owner,chennai,6.1 Lakh*
+594,Honda,Amaze,2016-2021 S CVT Petrol BSIV,2016,"15,203 kms",Petrol,First Owner,chennai,6 Lakh*
+595,Maruti,Wagon,R LXI CNG,2017,"1,20,000 kms",CNG,First Owner,chennai,3.7 Lakh*
+596,Hyundai,i10,Sportz,2011,"42,000 kms",Petrol,Second Owner,chennai,2.6 Lakh*
+597,Hyundai,Accent,Executive LPG,2010,"1,25,000 kms",LPG,Second Owner,chennai,2.1 Lakh*
+598,Honda,Civic,1.8 S MT,2007,"1,00,000 kms",Petrol,Third Owner,chennai,1.6 Lakh*
+599,Tata,Tiago,1.2 Revotron XZ Plus Dual Tone,2019,"20,000 kms",Petrol,First Owner,chennai,5.75 Lakh*
+600,Ford,EcoSport,1.5 Diesel Titanium Plus BSIV,2017,"42,500 kms",Diesel,Second Owner,chennai,7 Lakh*
+601,Datsun,RediGO,T Option,2017,"24,000 kms",Petrol,First Owner,chennai,2.9 Lakh*
+602,Maruti,Baleno,Delta 1.2,2018,"1,539 kms",Petrol,First Owner,chennai,6.5 Lakh*
+603,Ford,Freestyle,Titanium Petrol BSIV,2018,"22,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+604,Skoda,Superb,Elegance 2.0 TDI CR AT,2011,"15,000 kms",Diesel,First Owner,chennai,12 Lakh*
+605,Hyundai,i20,Asta (o) 1.4 CRDi (Diesel),2016,"55,001 kms",Diesel,First Owner,chennai,6.1 Lakh*
+606,Maruti,Baleno,Zeta 1.3,2017,"25,000 kms",Diesel,First Owner,chennai,6.25 Lakh*
+607,Maruti,Celerio,ZXI MT BSIV,2018,"46,000 kms",Petrol,First Owner,chennai,4.1 Lakh*
+608,Tata,Sumo,DI EX 7/9 Str BSIII,2012,"80,000 kms",Diesel,First Owner,chennai,2.4 Lakh*
+609,Honda,City,i VTEC CVT VX,2015,"25,000 kms",Petrol,First Owner,chennai,7.25 Lakh*
+610,Maruti,Alto,K10 2010-2014 VXI,2013,"32,500 kms",Petrol,First Owner,chennai,3.5 Lakh*
+611,Hyundai,Santro,Xing GL,2008,"70,000 kms",Petrol,First Owner,chennai,1.95 Lakh*
+612,Toyota,Corolla,Altis Diesel D4DG,2011,"1,10,025 kms",Diesel,Second Owner,chennai,4.9 Lakh*
+613,Maruti,Swift,VDI BSIV,2009,"90,000 kms",Diesel,First Owner,chennai,3.2 Lakh*
+614,Maruti,Alto,800 LXI Optional,2018,"14,938 kms",Petrol,First Owner,chennai,3.55 Lakh*
+615,Hyundai,Verna,1.6 VTVT S,2015,"66,000 kms",Petrol,First Owner,chennai,6.75 Lakh*
+616,Maruti,Wagon,R AMT VXI,2017,"28,809 kms",Petrol,First Owner,chennai,4.7 Lakh*
+617,Honda,City,i VTEC V,2015,"80,000 kms",Petrol,Third Owner,chennai,5.34 Lakh*
+618,Toyota,Etios,GD,2014,"3,30,000 kms",Diesel,First Owner,chennai,3.6 Lakh*
+619,Ford,Aspire,1.5 TDCi Titanium Plus,2017,"25,000 kms",Diesel,First Owner,chennai,7.25 Lakh*
+620,Maruti,Zen,Estilo VXI BSIII,2010,"58,000 kms",Petrol,Second Owner,chennai,2.4 Lakh*
+621,Skoda,Superb,Elegance 2.0 TDI CR AT,2013,"1,07,000 kms",Diesel,First Owner,chennai,10.9 Lakh*
+622,Maruti,Swift,Ldi BSIV,2007,"89,000 kms",Diesel,First Owner,chennai,2.8 Lakh*
+623,Hyundai,i10,Sportz,2011,"60,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+624,Honda,Brio,VX AT,2015,"32,000 kms",Petrol,Second Owner,chennai,4.5 Lakh*
+625,Honda,Amaze,S AT i-Vtech,2013,"90,293 kms",Petrol,Second Owner,chennai,4 Lakh*
+626,Honda,Brio,VX AT,2014,"45,000 kms",Petrol,First Owner,chennai,4.45 Lakh*
+627,Honda,City,V AT,2013,"47,000 kms",Petrol,Second Owner,chennai,5.5 Lakh*
+628,Ford,Fiesta,Classic 1.6 Duratec CLXI,2007,"50,000 kms",Petrol,Third Owner,chennai,1.8 Lakh*
+629,Ford,Endeavour,2.5L 4X2 MT,2015,"1,00,000 kms",Diesel,Second Owner,chennai,9.25 Lakh*
+630,Volkswagen,Vento,Diesel Highline,2011,"1,20,000 kms",Diesel,First Owner,chennai,4.25 Lakh*
+631,Hyundai,i20,Sportz 1.4 CRDi,2013,"70,436 kms",Diesel,Second Owner,chennai,3.75 Lakh*
+632,Maruti,Baleno,LXI,2006,"59,600 kms",Petrol,Third Owner,chennai,1.4 Lakh*
+633,Honda,City,S,2012,"35,000 kms",Petrol,Second Owner,chennai,4.25 Lakh*
+634,Honda,City,V MT,2012,"23,000 kms",Petrol,First Owner,chennai,5.45 Lakh*
+635,Honda,City,1.5 V MT,2011,"60,000 kms",Petrol,First Owner,chennai,4.75 Lakh*
+636,OpelCorsa,1.4,GLS,2004,"70,000 kms",Petrol,Second Owner,chennai,1.3 Lakh*
+637,Toyota,Innova,2.5 V Diesel 8-seater,2011,"1,86,000 kms",Diesel,Third Owner,chennai,8.5 Lakh*
+638,Maruti,Alto,LXi,2011,"47,803 kms",Petrol,First Owner,chennai,2 Lakh*
+639,Tata,Indica,Vista Quadrajet LX,2011,"90,000 kms",Diesel,First Owner,chennai,2.75 Lakh*
+640,Honda,Civic,1.8 MT Sport,2007,"30,000 kms",Petrol,Second Owner,chennai,3.1 Lakh*
+641,Maruti,Alto,800 LXI,2014,"60,000 kms",Petrol,First Owner,chennai,2.5 Lakh*
+642,Mahindra,Bolero,DI,2003,"50,000 kms",Diesel,Second Owner,chennai,2.2 Lakh*
+643,Tata,Indica,GLS BS IV,2009,"80,000 kms",Petrol,Third Owner,chennai,1.25 Lakh*
+644,Honda,New,Accord 2008-2011 2.4 Elegance A/T,2008,"40,000 kms",Petrol,Second Owner,chennai,6 Lakh*
+645,Volkswagen,Polo,1.2 MPI Highline,2014,"70,000 kms",Petrol,Second Owner,chennai,4.8 Lakh*
+646,Renault,KWID,RXT,2015,"26,450 kms",Petrol,First Owner,chennai,2.75 Lakh*
+647,Hyundai,i10,Sportz 1.1L,2016,"24,647 kms",Petrol,First Owner,chennai,4 Lakh*
+648,Maruti,A,Star AT VXI,2011,"66,624 kms",Petrol,Second Owner,chennai,2.3 Lakh*
+649,Hyundai,Santro,Xing XP,2003,"82,000 kms",Petrol,Second Owner,chennai,"99,000*"
+650,Toyota,Fortuner,2016-2021 2.8 4WD AT BSIV,2017,"36,000 kms",Diesel,First Owner,chennai,30 Lakh*
+651,Hyundai,i20,Magna 1.2,2016,"25,000 kms",Petrol,First Owner,chennai,5.45 Lakh*
+652,Hyundai,EON,Era Plus,2014,"39,000 kms",Petrol,Second Owner,chennai,2.85 Lakh*
+653,BMW,X3,3.0si,2009,"1,35,000 kms",Petrol,First Owner,chennai,8.5 Lakh*
+654,Mercedes-Benz,GLE,Class 250d,2017,"18,000 kms",Diesel,First Owner,chennai,50 Lakh*
+655,Tata,Nano,Cx BSIII,2011,"50,000 kms",Petrol,Second Owner,chennai,"75,000*"
+656,Volvo,S,80 D5,2010,"90,000 kms",Diesel,Second Owner,chennai,8 Lakh*
+657,Hyundai,Creta,1.6 CRDi SX Plus,2017,"66,000 kms",Diesel,First Owner,chennai,11.45 Lakh*
+658,Volkswagen,Polo,2015-2019 GT TSI,2016,"57,007 kms",Petrol,Second Owner,chennai,6.25 Lakh*
+659,Maruti,Ritz,VXI,2010,"70,000 kms",Petrol,Second Owner,chennai,2.75 Lakh*
+660,Toyota,Fortuner,4x2 4 Speed AT,2012,"1,10,000 kms",Diesel,Second Owner,chennai,13.5 Lakh*
+661,Skoda,Superb,LK 2.0 TDI AT,2019,"14,000 kms",Diesel,First Owner,chennai,31.5 Lakh*
+662,Ford,Figo,Petrol Celebration Edition,2013,"80,000 kms",Petrol,First Owner,chennai,2.2 Lakh*
+663,Ford,Endeavour,3.2 Titanium AT 4X4,2016,"69,000 kms",Diesel,Second Owner,chennai,24 Lakh*
+664,Ford,Endeavour,2.2 Titanium AT 4X2 Sunroof,2018,"40,000 kms",Diesel,First Owner,chennai,26 Lakh*
+665,Land,Rover,Range Rover Evoque HSE,2016,"70,000 kms",Diesel,First Owner,chennai,32 Lakh*
+666,Skoda,Octavia,Style Plus 1.8 TSI AT,2016,"25,300 kms",Petrol,First Owner,chennai,14 Lakh*
+667,Mahindra,XUV500,W6 2WD,2015,"1,00,000 kms",Diesel,First Owner,chennai,11 Lakh*
+668,Maruti,Swift,LXI Option,2016,"40,000 kms",Petrol,First Owner,chennai,5.4 Lakh*
+669,Maruti,Alto,K10 VXI AGS,2017,"22,000 kms",Petrol,First Owner,chennai,3.9 Lakh*
+670,BMW,7,Series 730Ld DPE Signature,2016,"54,000 kms",Diesel,Second Owner,chennai,56.5 Lakh*
+671,Hindustan,Motors,Contessa 2.0 DSL,1997,"80,000 kms",Diesel,Second Owner,chennai,3.5 Lakh*
+672,Honda,Civic,VX,2019,"4,650 kms",Petrol,First Owner,chennai,17.5 Lakh*
+673,Tata,Harrier,XZA Plus AT,2021,"2,500 kms",Diesel,First Owner,chennai,25 Lakh*
+674,Land,Rover,Range Rover Evoque 2.0 TD4 SE Dynamic,2016,"45,000 kms",Diesel,First Owner,chennai,35 Lakh*
+675,Maruti,Swift,LDI,2010,"67,576 kms",Diesel,First Owner,chennai,3.25 Lakh*
+676,Maruti,Eeco,5 Seater AC BSIV,2017,"24,885 kms",Petrol,First Owner,chennai,3.9 Lakh*
+677,Maruti,A,Star AT VXI,2012,"55,000 kms",Petrol,First Owner,chennai,2.95 Lakh*
+678,Hyundai,i10,Magna,2011,"69,000 kms",Petrol,First Owner,chennai,2.9 Lakh*
+679,Ford,EcoSport,Sports,2020,"6,944 kms",Petrol,First Owner,chennai,11.65 Lakh*
+680,Tata,Bolt,Quadrajet XE,2018,"35,000 kms",Diesel,First Owner,chennai,5.35 Lakh*
+681,Maruti,Wagon,R LXI DUO,2009,"30,000 kms",LPG,First Owner,chennai,2.4 Lakh*
+682,Maruti,Celerio,VXI,2016,"23,666 kms",Petrol,First Owner,chennai,3.7 Lakh*
+683,Hyundai,i20,Asta (o),2009,"87,521 kms",Petrol,Second Owner,chennai,3.19 Lakh*
+684,Maruti,Eeco,5 Seater AC,2018,"57,129 kms",Petrol,First Owner,chennai,3.75 Lakh*
+685,Maruti,Swift,Dzire Tour 2012-2018 LDI,2011,"1,27,481 kms",Diesel,First Owner,chennai,3.7 Lakh*
+686,Maruti,Swift,Ldi BSIV,2009,"65,000 kms",Diesel,First Owner,chennai,3.25 Lakh*
+687,BMW,5,Series 520d M Sport,2017,"60,000 kms",Diesel,First Owner,chennai,33 Lakh*
+688,Audi,A4,New 2.0 TDI Multitronic,2011,"68,500 kms",Diesel,Third Owner,chennai,13 Lakh*
+689,Hyundai,i20,1.2 Sportz Option,2011,"45,000 kms",Petrol,First Owner,chennai,3.75 Lakh*
+690,Skoda,Fabia,1.2 MPI Elegance,2011,"1,26,954 kms",Petrol,First Owner,chennai,2 Lakh*
+691,Volkswagen,Jetta,2.0L TDI Highline AT,2014,"82,000 kms",Diesel,First Owner,chennai,10 Lakh*
+692,Maruti,Wagon,R LXI,2007,"60,001 kms",Petrol,Second Owner,chennai,1.55 Lakh*
+693,Maruti,Omni,5 Seater BSIV,2001,"37,539 kms",Petrol,Third Owner,chennai,"85,000*"
+694,BMW,3,Series 320d,2011,"80,000 kms",Diesel,Second Owner,chennai,10.5 Lakh*
+695,Renault,Duster,85PS Diesel RxL,2013,"60,000 kms",Diesel,Second Owner,chennai,4.5 Lakh*
+696,Maruti,Swift,LXi BSIV,2010,"35,000 kms",Petrol,First Owner,chennai,3 Lakh*
+697,Hyundai,i20,Magna Plus,2018,"24,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+698,Toyota,Innova,Crysta 2016-2020 2.8 ZX AT BSIV,2016,"63,523 kms",Diesel,First Owner,chennai,18.3 Lakh*
+699,Maruti,Swift,1.3 LXI,2008,"66,000 kms",Petrol,Second Owner,chennai,3 Lakh*
+700,Honda,Brio,S MT,2014,"31,000 kms",Petrol,First Owner,chennai,4 Lakh*
+701,Maruti,Swift,Dzire VXi,2008,"25,500 kms",Petrol,First Owner,chennai,3.25 Lakh*
+702,Maruti,Alto,LXi BSIII,2009,"52,922 kms",Petrol,First Owner,chennai,1.7 Lakh*
+703,Honda,WR-V,i-VTEC VX,2017,"32,000 kms",Petrol,Second Owner,chennai,7.4 Lakh*
+704,Honda,Jazz,1.2 VX i VTEC,2016,"62,576 kms",Petrol,First Owner,chennai,5.75 Lakh*
+705,Hyundai,Getz,1.3 GVS,2009,"62,208 kms",Petrol,Second Owner,chennai,1.75 Lakh*
+706,Maruti,Ertiga,ZDI,2012,"1,30,000 kms",Diesel,First Owner,chennai,5.4 Lakh*
+707,Skoda,Octavia,Classic 1.9 TDI MT,2007,"1,72,500 kms",Diesel,Third Owner,chennai,1.75 Lakh*
+708,Hyundai,Grand,i10 AT Asta,2015,"60,000 kms",Petrol,First Owner,chennai,4.5 Lakh*
+709,Ford,Ecosport,1.5 DV5 MT Titanium,2015,"8,065 kms",Diesel,First Owner,chennai,6 Lakh*
+710,Ford,Aspire,1.2 Ti-VCT Ambiente,2016,"84,669 kms",Petrol,First Owner,chennai,3.6 Lakh*
+711,Toyota,Qualis,FS B6,2001,"1,50,000 kms",Diesel,Second Owner,chennai,1.9 Lakh*
+712,Hyundai,i10,Sportz 1.2 AT,2012,"73,004 kms",Petrol,First Owner,chennai,3.45 Lakh*
+713,Hyundai,i10,Magna 1.2,2008,"1,09,540 kms",Petrol,First Owner,chennai,2.1 Lakh*
+714,Maruti,Ritz,VXI,2013,"1,02,616 kms",Petrol,First Owner,chennai,2.7 Lakh*
+715,Maruti,Baleno,Delta,2016,"43,277 kms",Petrol,First Owner,chennai,5.45 Lakh*
+716,Ford,Figo,Petrol ZXI,2010,"65,000 kms",Petrol,First Owner,chennai,2.65 Lakh*
+717,Maruti,SX4,ZXI AT,2010,"70,100 kms",Petrol,Second Owner,chennai,3.09 Lakh*
+718,Hyundai,Santro,Asta BSIV,2018,"11,000 kms",Petrol,First Owner,chennai,5.2 Lakh*
+719,Toyota,Innova,Crysta 2016-2020 2.4 VX MT 8S BSIV,2016,"77,000 kms",Diesel,First Owner,chennai,17.5 Lakh*
+720,Nissan,Micra,Diesel XL,2017,"84,000 kms",Diesel,First Owner,chennai,4.15 Lakh*
+721,Renault,Lodgy,85PS RxZ,2015,"90,000 kms",Diesel,Second Owner,chennai,6.15 Lakh*
+722,Maruti,Zen,LX,1997,"40,000 kms",Petrol,First Owner,chennai,1.25 Lakh*
+723,Honda,City,i VTEC V,2017,"36,735 kms",Petrol,First Owner,chennai,8.3 Lakh*
+724,Maruti,Eeco,7 Seater STD,2020,"15,000 kms",Petrol,First Owner,chennai,4.85 Lakh*
+725,Toyota,Innova,2.5 GX (Diesel) 7 Seater,2016,"90,000 kms",Diesel,First Owner,chennai,14.85 Lakh*
+726,Maruti,Celerio,VXI AT,2016,"16,000 kms",Petrol,First Owner,chennai,4.3 Lakh*
+727,Maruti,Swift,Dzire AMT ZDI,2016,"42,000 kms",Diesel,First Owner,chennai,7.1 Lakh*
+728,Maruti,Swift,VDI,2012,"1,14,000 kms",Diesel,First Owner,chennai,4.25 Lakh*
+729,Ford,Ecosport,1.5 DV5 MT Titanium,2014,"58,000 kms",Diesel,Second Owner,chennai,6.35 Lakh*
+730,Mahindra,TUV,300 T8,2016,"47,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+731,Datsun,GO,Plus T BSIV,2017,"14,000 kms",Petrol,First Owner,chennai,4.6 Lakh*
+732,Datsun,GO,T BSIV,2014,"22,000 kms",Petrol,First Owner,chennai,3.25 Lakh*
+733,Hyundai,Grand,i10 CRDi Asta,2016,"49,000 kms",Diesel,First Owner,chennai,5.45 Lakh*
+734,Volkswagen,Polo,2015-2019 1.2 MPI Highline,2016,"48,000 kms",Petrol,First Owner,chennai,6 Lakh*
+735,Skoda,Rapid,1.6 MPI Ambition BSIV,2016,"36,000 kms",Petrol,First Owner,chennai,7.1 Lakh*
+736,Maruti,Ciaz,ZDi Plus SHVS,2016,"42,000 kms",Diesel,First Owner,chennai,8.1 Lakh*
+737,Maruti,Swift,Dzire VXI Optional,2016,"32,275 kms",Petrol,First Owner,chennai,6.09 Lakh*
+738,Tata,Safari,Storme VX,2013,"85,000 kms",Diesel,Second Owner,chennai,4.9 Lakh*
+739,Maruti,Zen,Estilo VXI BSIII,2008,"40,000 kms",Petrol,Second Owner,chennai,2.2 Lakh*
+740,Maruti,Baleno,Delta 1.3,2018,"49,000 kms",Diesel,First Owner,chennai,7.5 Lakh*
+741,Hyundai,Xcent,2016-2017 VTVT Plus ABS,2014,"2,400 kms",Petrol,First Owner,chennai,4.65 Lakh*
+742,Honda,BRV,i-VTEC V MT,2018,"43,000 kms",Petrol,First Owner,chennai,9.35 Lakh*
+743,Hyundai,Grand,i10 CRDi Magna,2016,"38,000 kms",Diesel,First Owner,chennai,5.25 Lakh*
+744,Maruti,Celerio,VXI AT,2016,"11,000 kms",Petrol,First Owner,chennai,4.8 Lakh*
+745,Toyota,Etios,G,2011,"57,000 kms",Petrol,First Owner,chennai,4.3 Lakh*
+746,Maruti,Wagon,R AMT VXI,2016,"49,000 kms",Petrol,First Owner,chennai,4.7 Lakh*
+747,Volkswagen,Vento,Diesel Highline,2012,"49,000 kms",Diesel,First Owner,chennai,5.65 Lakh*
+748,Toyota,Fortuner,3.0 Diesel,2011,"1,59,000 kms",Diesel,Third Owner,chennai,10.85 Lakh*
+749,Hyundai,Xcent,1.2 Kappa S AT,2017,"11,000 kms",Petrol,First Owner,chennai,6.15 Lakh*
+750,Hyundai,i20,Active S Petrol,2017,"34,000 kms",Petrol,First Owner,chennai,6.85 Lakh*
+751,Volkswagen,Polo,2015-2019 1.0 MPI Comfortline,2018,"32,000 kms",Petrol,Second Owner,chennai,5.85 Lakh*
+752,Honda,Amaze,VX i-Vtech,2015,"43,000 kms",Petrol,First Owner,chennai,5.35 Lakh*
+753,Honda,BRV,i-VTEC S MT,2018,"44,000 kms",Petrol,First Owner,chennai,8.2 Lakh*
+754,Honda,Jazz,1.2 VX i VTEC,2016,"33,000 kms",Petrol,First Owner,chennai,6.15 Lakh*
+755,Toyota,Etios,Liva G,2012,"48,000 kms",Petrol,First Owner,chennai,4.3 Lakh*
+756,Hyundai,Grand,i10 CRDi Sportz,2014,"41,000 kms",Diesel,First Owner,chennai,4.85 Lakh*
+757,Volkswagen,Vento,Diesel Trendline,2012,"42,000 kms",Diesel,First Owner,chennai,4.95 Lakh*
+758,Nissan,Terrano,XL,2016,"57,000 kms",Petrol,Second Owner,chennai,6.3 Lakh*
+759,Honda,City,2017-2020 GXi,2008,"1,00,000 kms",Petrol,Second Owner,chennai,2.9 Lakh*
+760,Hyundai,i20,Era BSIV,2017,"21,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+761,Ford,EcoSport,1.5 Ti VCT MT Ambiente BSIV,2017,"51,000 kms",Petrol,First Owner,chennai,7.15 Lakh*
+762,Ford,EcoSport,1.5 Petrol Ambiente BSIV,2018,"17,000 kms",Petrol,First Owner,chennai,7.45 Lakh*
+763,Maruti,Vitara,Brezza LDi,2017,"58,000 kms",Diesel,First Owner,chennai,7.5 Lakh*
+764,Toyota,Corolla,Altis Diesel D4DJ,2011,"1,12,800 kms",Diesel,First Owner,chennai,5.5 Lakh*
+765,Mahindra,KUV,100 mFALCON D75 K8,2016,"22,000 kms",Diesel,First Owner,chennai,4.9 Lakh*
+766,Honda,Brio,S Option MT,2012,"33,000 kms",Petrol,First Owner,chennai,3.85 Lakh*
+767,Renault,KWID,1.0 RXT 02 Anniversary Edition,2017,"43,000 kms",Petrol,First Owner,chennai,3.9 Lakh*
+768,Hyundai,i10,Sportz 1.2,2010,"51,000 kms",Petrol,First Owner,chennai,2.9 Lakh*
+769,Hyundai,i20,Asta 1.2,2017,"17,000 kms",Petrol,First Owner,chennai,7.2 Lakh*
+770,Hyundai,EON,Magna Plus,2015,"25,000 kms",Petrol,First Owner,chennai,3.6 Lakh*
+771,Hyundai,Verna,1.4 VTVT,2015,"46,000 kms",Petrol,First Owner,chennai,6.7 Lakh*
+772,Maruti,Alto,K10 VXI,2017,"20,000 kms",Petrol,First Owner,chennai,3.85 Lakh*
+773,Maruti,Wagon,R VXI BS IV,2012,"18,000 kms",Petrol,First Owner,chennai,3.5 Lakh*
+774,Toyota,Etios,Liva GD,2013,"44,000 kms",Diesel,First Owner,chennai,4.85 Lakh*
+775,Ford,Figo,Diesel Celebration Edition,2013,"50,000 kms",Diesel,First Owner,chennai,3.99 Lakh*
+776,Mahindra,XUV500,W8 2WD,2014,"1,20,000 kms",Diesel,Second Owner,chennai,8 Lakh*
+777,Mercedes-Benz,C-Class,Progressive C 220d,2020,"12,000 kms",Diesel,First Owner,chennai,45 Lakh*
+778,Toyota,Fortuner,3.0 Diesel,2010,"1,85,000 kms",Diesel,First Owner,chennai,11.25 Lakh*
+779,Maruti,Ciaz,ZDi Plus SHVS,2016,"60,000 kms",Diesel,First Owner,chennai,7.5 Lakh*
+780,Mahindra,KUV,100 mFALCON G80 K4,2017,"18,000 kms",Petrol,First Owner,chennai,4.9 Lakh*
+781,Skoda,Rapid,1.6 TDI Elegance,2011,"89,999 kms",Diesel,Second Owner,chennai,4.05 Lakh*
+782,Honda,Jazz,1.2 VX i VTEC,2016,"54,000 kms",Petrol,First Owner,chennai,6.1 Lakh*
+783,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"59,000 kms",Diesel,Second Owner,chennai,21 Lakh*
+784,Skoda,Octavia,Elegance 2.0 TDI AT,2014,"50,000 kms",Diesel,First Owner,chennai,14.5 Lakh*
+785,Ford,EcoSport,1.5 Ti VCT MT Trend BSIV,2016,"56,000 kms",Petrol,First Owner,chennai,6.85 Lakh*
+786,Ford,EcoSport,Titanium Diesel,2019,"21,000 kms",Diesel,First Owner,chennai,10 Lakh*
+787,Maruti,Celerio,ZXI,2017,"34,000 kms",Petrol,Second Owner,chennai,4.45 Lakh*
+788,Hyundai,EON,Era Plus,2013,"49,000 kms",Petrol,Second Owner,chennai,2.7 Lakh*
+789,Maruti,Ertiga,VDI,2012,"49,000 kms",Diesel,First Owner,chennai,6.55 Lakh*
+790,Datsun,GO,Plus T BSIV,2016,"37,000 kms",Petrol,First Owner,chennai,3.6 Lakh*
+791,Ford,EcoSport,Signature Edition Diesel BSIV,2018,"31,000 kms",Diesel,First Owner,chennai,9.95 Lakh*
+792,Hyundai,i20,Asta 1.2,2016,"37,000 kms",Petrol,First Owner,chennai,6.4 Lakh*
+793,Hyundai,Creta,1.6 CRDi SX Plus,2017,"66,000 kms",Diesel,First Owner,chennai,11.5 Lakh*
+794,Honda,Brio,S MT,2013,"49,234 kms",Petrol,First Owner,chennai,3.7 Lakh*
+795,Maruti,Vitara,Brezza ZDi Plus,2017,"50,000 kms",Diesel,First Owner,chennai,8.5 Lakh*
+796,Nissan,Magnite,XV Premium,2021,"3,000 kms",Petrol,First Owner,chennai,8.25 Lakh*
+797,Hyundai,Verna,Xi (Petrol),2007,"1,83,254 kms",Petrol,First Owner,chennai,1.98 Lakh*
+798,Toyota,Platinum,Etios 1.4 GD,2019,"51,000 kms",Diesel,First Owner,chennai,7.55 Lakh*
+799,Toyota,Innova,Crysta 2016-2020 2.4 VX MT,2018,"7,000 kms",Diesel,First Owner,chennai,21.65 Lakh*
+800,Ford,EcoSport,1.5 Diesel Titanium,2018,"66,000 kms",Diesel,First Owner,chennai,8.75 Lakh*
+801,Mahindra,TUV,300 T8,2015,"52,000 kms",Diesel,First Owner,chennai,7.55 Lakh*
+802,Honda,Amaze,2016-2021 S i-VTEC,2017,"31,000 kms",Petrol,First Owner,chennai,6 Lakh*
+803,Ford,Ecosport,1.5 Ti VCT AT Titanium,2014,"44,000 kms",Petrol,First Owner,chennai,6.35 Lakh*
+804,Honda,Brio,1.2 S MT,2017,"52,000 kms",Petrol,First Owner,chennai,4.95 Lakh*
+805,Chevrolet,Beat,LS,2015,"19,000 kms",Petrol,First Owner,chennai,3.2 Lakh*
+806,Hyundai,Grand,i10 AT Sportz,2014,"40,169 kms",Petrol,First Owner,chennai,4.5 Lakh*
+807,Renault,KWID,RXL,2015,"49,954 kms",Petrol,First Owner,chennai,2.7 Lakh*
+808,Renault,KWID,Climber 1.0 MT,2017,"36,000 kms",Petrol,First Owner,chennai,4.25 Lakh*
+809,Datsun,GO,T BSIV,2014,"27,000 kms",Petrol,First Owner,chennai,2.95 Lakh*
+810,Nissan,Micra,Diesel XV,2013,"34,000 kms",Diesel,First Owner,chennai,3.95 Lakh*
+811,Honda,BRV,i-VTEC V CVT,2018,"23,000 kms",Petrol,First Owner,chennai,10.25 Lakh*
+812,Hyundai,i10,Sportz 1.2,2009,"75,375 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+813,Tata,Nexon,1.2 Revotron XM,2018,"28,000 kms",Petrol,First Owner,chennai,7.5 Lakh*
+814,Ford,EcoSport,1.5 Ti VCT MT Trend BSIV,2015,"29,000 kms",Petrol,First Owner,chennai,6.3 Lakh*
+815,Mahindra,XUV500,2011-2015 W8 FWD,2012,"77,000 kms",Diesel,Second Owner,chennai,7.75 Lakh*
+816,Maruti,Baleno,Alpha Automatic,2018,"10,000 kms",Petrol,First Owner,chennai,7.95 Lakh*
+817,Maruti,Swift,ZXI,2014,"46,000 kms",Petrol,First Owner,chennai,4.8 Lakh*
+818,Hyundai,Verna,SX CRDi AT,2012,"58,000 kms",Diesel,Second Owner,chennai,5.5 Lakh*
+819,Tata,Nano,Twist XT,2014,"53,103 kms",Petrol,First Owner,chennai,1.6 Lakh*
+820,Honda,Amaze,S i-Vtech,2013,"33,000 kms",Petrol,First Owner,chennai,4.6 Lakh*
+821,Hyundai,Creta,1.6 VTVT AT SX Plus,2017,"56,000 kms",Petrol,First Owner,chennai,11.65 Lakh*
+822,Hyundai,Creta,1.6 CRDi SX,2018,"33,000 kms",Diesel,First Owner,chennai,13 Lakh*
+823,Chevrolet,Spark,1.0 LS,2008,"1,24,365 kms",Petrol,Second Owner,chennai,1.2 Lakh*
+824,Tata,Nano,Lx BSIII,2012,"32,000 kms",Petrol,First Owner,chennai,1 Lakh*
+825,Honda,Amaze,2016-2021 S i-VTEC,2017,"40,000 kms",Petrol,Second Owner,chennai,5.15 Lakh*
+826,Tata,Nano,Twist XT,2014,"25,000 kms",Petrol,Second Owner,chennai,1.65 Lakh*
+827,Maruti,Swift,VXI,2019,"11,000 kms",Petrol,First Owner,chennai,6.4 Lakh*
+828,Audi,A6,2.7 TDI,2010,"70,000 kms",Diesel,First Owner,chennai,10 Lakh*
+829,Maruti,Alto,K10 LXI,2016,"53,000 kms",Petrol,First Owner,chennai,3 Lakh*
+830,Mahindra,XUV500,W8 4WD,2012,"1,30,000 kms",Diesel,First Owner,chennai,6.85 Lakh*
+831,Land,Rover,Discovery Sport TD4 HSE 7S,2016,"45,000 kms",Diesel,First Owner,chennai,36 Lakh*
+832,Hyundai,i20,Asta 1.2,2010,"30,682 kms",Petrol,First Owner,chennai,3.25 Lakh*
+833,Ford,Fiesta,1.4 Duratec ZXI,2007,"52,065 kms",Petrol,Second Owner,chennai,1.7 Lakh*
+834,Tata,Indica,DLS BSIII,2017,"35,000 kms",Diesel,First Owner,chennai,2 Lakh*
+835,Hyundai,Elantra,CRDi SX,2015,"23,000 kms",Diesel,First Owner,chennai,10.5 Lakh*
+836,Mini,Cooper,S,2013,"44,501 kms",Petrol,Second Owner,chennai,19 Lakh*
+837,Toyota,Fortuner,2016-2021 2.8 4WD MT BSIV,2017,"43,000 kms",Diesel,Second Owner,chennai,27 Lakh*
+838,Datsun,GO,A EPS,2016,"24,000 kms",Petrol,First Owner,chennai,3.35 Lakh*
+839,Hyundai,Verna,SX CRDi AT,2013,"58,000 kms",Diesel,First Owner,chennai,6.7 Lakh*
+840,Jaguar,XJ,3.0L,2011,"65,000 kms",Diesel,First Owner,chennai,25 Lakh*
+841,Maruti,Baleno,Zeta 1.2,2017,"46,000 kms",Petrol,First Owner,chennai,6.7 Lakh*
+842,Renault,KWID,RXT,2016,"40,000 kms",Petrol,First Owner,chennai,3.2 Lakh*
+843,Maruti,Baleno,Delta 1.2,2016,"54,000 kms",Petrol,First Owner,chennai,6.1 Lakh*
+844,Hyundai,Verna,Transform SX VTVT,2011,"58,000 kms",Petrol,First Owner,chennai,5.1 Lakh*
+845,Hyundai,Venue,SX Diesel BSIV,2020,"4,000 kms",Diesel,First Owner,chennai,10.7 Lakh*
+846,Maruti,Baleno,Sigma,2016,"41,383 kms",Petrol,First Owner,chennai,5.25 Lakh*
+847,Hyundai,Creta,1.6 VTVT AT SX Plus,2016,"36,800 kms",Petrol,First Owner,chennai,9.9 Lakh*
+848,Mercedes-Benz,E-Class,Exclusive E 220 d BSIV,2017,"12,000 kms",Diesel,First Owner,chennai,45.5 Lakh*
+849,Toyota,Innova,2.5 G (Diesel) 7 Seater,2014,"65,000 kms",Diesel,First Owner,chennai,11.99 Lakh*
+850,Maruti,Swift,LDI Optional,2017,"45,000 kms",Diesel,First Owner,chennai,6.15 Lakh*
+851,Ford,Fiesta,1.4 Duratec ZXI,2008,"90,000 kms",Petrol,Second Owner,chennai,1.4 Lakh*
+852,Renault,Duster,Adventure Edition RXZ AWD,2017,"23,000 kms",Diesel,Second Owner,chennai,8.75 Lakh*
+853,Tata,Nano,LX,2012,"19,000 kms",Petrol,First Owner,chennai,1.25 Lakh*
+854,Hyundai,i10,Era,2013,"42,000 kms",Petrol,First Owner,chennai,2.95 Lakh*
+855,Maruti,Swift,VXI,2015,"41,892 kms",Petrol,First Owner,chennai,5.3 Lakh*
+856,Chevrolet,Cruze,LTZ AT,2013,"70,200 kms",Diesel,First Owner,chennai,5 Lakh*
+857,Maruti,Alto,K10 2010-2014 VXI,2013,"23,800 kms",Petrol,First Owner,chennai,2.75 Lakh*
+858,Chevrolet,Spark,1.0 LS,2008,"1,24,365 kms",Petrol,Second Owner,chennai,1.2 Lakh*
+859,Maruti,S-Cross,2017-2020 Zeta DDiS 200 SH,2015,"1,00,200 kms",Diesel,First Owner,chennai,6.19 Lakh*
+860,Maruti,Alto,800 LXI Optional,2018,"42,000 kms",Petrol,First Owner,chennai,3.1 Lakh*
+861,Maruti,Zen,Estilo VXI BSIV,2010,"65,000 kms",Petrol,First Owner,chennai,2.55 Lakh*
+862,Tata,Nano,XTA,2016,"25,000 kms",Petrol,First Owner,chennai,2.55 Lakh*
+863,Hyundai,Verna,Xi (Petrol),2007,"60,000 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+864,Honda,Brio,V MT,2013,"55,569 kms",Petrol,First Owner,chennai,3.9 Lakh*
+865,Toyota,Etios,GD,2015,"85,000 kms",Diesel,First Owner,chennai,6.45 Lakh*
+866,Maruti,Celerio,ZXI,2016,"56,173 kms",Petrol,First Owner,chennai,4 Lakh*
+867,Hyundai,Grand,i10 Sportz,2014,"78,000 kms",Petrol,First Owner,chennai,3.7 Lakh*
+868,Chevrolet,Beat,LS,2013,"1,20,000 kms",Petrol,Second Owner,chennai,2.5 Lakh*
+869,Skoda,Rapid,1.6 MPI AT Elegance,2015,"40,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+870,Honda,Amaze,VX AT i-Vtech,2013,"77,242 kms",Petrol,First Owner,chennai,4 Lakh*
+871,Ford,EcoSport,1.5 Petrol Titanium BSIV,2019,"22,404 kms",Petrol,First Owner,chennai,8.7 Lakh*
+872,Hyundai,i20,Active 1.2 S,2016,"48,000 kms",Petrol,First Owner,chennai,6.8 Lakh*
+873,Skoda,Superb,Elegance 2.0 TDI CR AT,2015,"1,42,944 kms",Diesel,First Owner,chennai,5.5 Lakh*
+874,Maruti,Zen,Estilo LXI BS IV,2012,"38,215 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+875,Chevrolet,Beat,Diesel LS,2012,"80,000 kms",Diesel,First Owner,chennai,2 Lakh*
+876,Volkswagen,Polo,Diesel Comfortline 1.2L,2011,"68,000 kms",Diesel,First Owner,chennai,3 Lakh*
+877,Hyundai,Santa,Fe 4WD AT,2014,"1,80,000 kms",Diesel,First Owner,chennai,11.85 Lakh*
+878,Maruti,Omni,8 Seater BSIV,2013,"68,000 kms",Petrol,First Owner,chennai,2.5 Lakh*
+879,Maruti,Swift,VDI,2017,"29,000 kms",Diesel,First Owner,chennai,6.5 Lakh*
+880,Audi,Q3,30 TDI S Edition,2015,"72,000 kms",Diesel,Second Owner,chennai,13.96 Lakh*
+881,Mahindra,Marazzo,M8,2018,"39,000 kms",Diesel,First Owner,chennai,11.49 Lakh*
+882,Maruti,Swift,Dzire Tour LXI,2018,"43,803 kms",Petrol,First Owner,chennai,6.2 Lakh*
+883,Hyundai,i10,Magna 1.1L,2016,"11,000 kms",Petrol,First Owner,chennai,4.25 Lakh*
+884,Datsun,RediGO,T Option,2016,"13,000 kms",Petrol,First Owner,chennai,2.75 Lakh*
+885,Maruti,Celerio,ZXI,2018,"32,265 kms",Petrol,First Owner,chennai,4.4 Lakh*
+886,Datsun,RediGO,T,2017,"42,155 kms",Petrol,First Owner,chennai,2.75 Lakh*
+887,Mahindra,XUV500,W10 AWD,2016,"79,900 kms",Diesel,First Owner,chennai,12.7 Lakh*
+888,Honda,City,1.5 V MT,2011,"1,08,733 kms",Petrol,First Owner,chennai,4 Lakh*
+889,Fiat,Grande,Punto 1.3 Dynamic (Diesel),2011,"85,400 kms",Diesel,Second Owner,chennai,2.4 Lakh*
+890,Mahindra,KUV,100 mFALCON D75 K8,2016,"79,600 kms",Diesel,Second Owner,chennai,3.3 Lakh*
+891,BMW,7,Series 740Li,2008,"1,44,000 kms",Petrol,First Owner,chennai,12 Lakh*
+892,Toyota,Yaris,J Optional CVT,2020,"19,000 kms",Petrol,First Owner,chennai,8.9 Lakh*
+893,Hyundai,i10,Magna 1.2 iTech SE,2011,"80,000 kms",Petrol,Second Owner,chennai,2.9 Lakh*
+894,Hyundai,Creta,1.6 VTVT AT SX Plus,2016,"30,000 kms",Petrol,First Owner,chennai,10.35 Lakh*
+895,Hyundai,i10,Sportz,2015,"54,000 kms",Petrol,First Owner,chennai,3.9 Lakh*
+896,Maruti,Wagon,R VXI,2020,"16,000 kms",Petrol,First Owner,chennai,5.2 Lakh*
+897,Hyundai,Santro,Xing XP,2004,"1,10,000 kms",Petrol,Third Owner,chennai,"85,000*"
+898,Maruti,Swift,Ldi BSIV,2014,"85,000 kms",Diesel,Second Owner,chennai,4.25 Lakh*
+899,Maruti,Alto,K10 2010-2014 VXI,2011,"38,000 kms",Petrol,First Owner,chennai,2.65 Lakh*
+900,Audi,Q3,30 TDI Premium FWD,2017,"70,000 kms",Diesel,First Owner,chennai,25 Lakh*
+901,Toyota,Innova,2.5 G (Diesel) 8 Seater,2011,"3,00,000 kms",Diesel,First Owner,chennai,6.6 Lakh*
+902,Hyundai,Xcent,1.2 VTVT S,2015,"71,300 kms",Petrol,First Owner,chennai,3.9 Lakh*
+903,Hyundai,Grand,i10 AT Asta,2015,"35,000 kms",Petrol,First Owner,chennai,4.7 Lakh*
+904,Ford,EcoSport,1.5 Petrol Titanium Plus AT BSIV,2018,"24,000 kms",Petrol,First Owner,chennai,9.45 Lakh*
+905,Honda,City,i DTEC VX,2014,"45,000 kms",Diesel,Second Owner,chennai,7.6 Lakh*
+906,Maruti,Swift,Dzire Tour S,2018,"50,000 kms",CNG,First Owner,chennai,5.35 Lakh*
+907,Maruti,Swift,1.3 LXI,2005,"50,000 kms",Petrol,Second Owner,chennai,1.8 Lakh*
+908,Renault,Duster,85PS Diesel RxL,2014,"75,000 kms",Diesel,First Owner,chennai,4.67 Lakh*
+909,Nissan,Micra,XL,2017,"84,000 kms",Petrol,First Owner,chennai,4.15 Lakh*
+910,Mahindra,TUV,300 T8 AMT,2016,"66,000 kms",Diesel,First Owner,chennai,7.95 Lakh*
+911,Honda,City,i VTEC S,2012,"37,000 kms",Petrol,Second Owner,chennai,4.7 Lakh*
+912,Mahindra,TUV,300 Plus P6 BSIV,2019,"30,000 kms",Diesel,First Owner,chennai,10.4 Lakh*
+913,BMW,X1,sDrive 20d xLine,2017,"30,000 kms",Diesel,Second Owner,chennai,23 Lakh*
+914,Ford,Figo,Petrol ZXI,2010,"22,000 kms",Petrol,First Owner,chennai,3.1 Lakh*
+915,Maruti,Swift,ZXI,2017,"39,000 kms",Petrol,First Owner,chennai,5.99 Lakh*
+916,Hyundai,Verna,VTVT 1.4 E,2018,"19,000 kms",Petrol,First Owner,chennai,8 Lakh*
+917,Ford,Classic,1.4 Duratorq Titanium,2010,"1,65,105 kms",Diesel,First Owner,chennai,1.8 Lakh*
+918,Mahindra,Quanto,C8,2012,"47,000 kms",Diesel,First Owner,chennai,4.3 Lakh*
+919,Ford,EcoSport,1.5 Petrol Titanium,2021,"2,500 kms",Petrol,First Owner,chennai,9.7 Lakh*
+920,Toyota,Innova,Crysta 2016-2020 2.4 VX MT 8S BSIV,2017,"1,50,000 kms",Diesel,First Owner,chennai,16.65 Lakh*
+921,Chevrolet,Beat,LT,2010,"17,000 kms",Petrol,First Owner,chennai,2.35 Lakh*
+922,Hyundai,i20,1.4 CRDi Asta,2016,"64,112 kms",Diesel,First Owner,chennai,6.5 Lakh*
+923,Hyundai,Verna,Transform CRDi VGT ABS,2011,"76,000 kms",Diesel,First Owner,chennai,3.6 Lakh*
+924,Maruti,A,Star AT VXI,2013,"93,598 kms",Petrol,First Owner,chennai,2.35 Lakh*
+925,Volkswagen,Vento,1.5 TDI Highline AT,2015,"65,000 kms",Diesel,Second Owner,chennai,6.75 Lakh*
+926,Volkswagen,Vento,1.5 TDI Highline AT,2016,"42,000 kms",Diesel,First Owner,chennai,8.9 Lakh*
+927,Hyundai,i10,Sportz AT,2012,"73,000 kms",Petrol,First Owner,chennai,3.45 Lakh*
+928,Honda,Amaze,S Diesel,2014,"93,801 kms",Diesel,First Owner,chennai,4.1 Lakh*
+929,Maruti,Swift,ZXI,2019,"23,224 kms",Petrol,First Owner,chennai,7 Lakh*
+930,Honda,City,2017-2020 GXi,2008,"1,00,002 kms",Petrol,Second Owner,chennai,2.95 Lakh*
+931,Maruti,Alto,K10 LXI,2012,"44,423 kms",Petrol,First Owner,chennai,2.25 Lakh*
+932,Honda,Jazz,1.2 VX i VTEC,2019,"1,600 kms",Petrol,First Owner,chennai,8.5 Lakh*
+933,Tata,Indica,eXeta GLS,2008,"45,050 kms",Petrol,Second Owner,chennai,1.3 Lakh*
+934,Hyundai,Santro,GLS II - Euro II,2000,"56,000 kms",Petrol,Third Owner,chennai,"99,000*"
+935,Skoda,Fabia,1.4 TDI Classic,2008,"1,07,068 kms",Diesel,Second Owner,chennai,1.8 Lakh*
+936,BMW,X4,M Sport X xDrive20d,2019,"20,000 kms",Diesel,Second Owner,chennai,47.5 Lakh*
+937,Ford,EcoSport,1.5 Diesel Trend Plus BSIV,2018,"21,000 kms",Diesel,First Owner,chennai,8.55 Lakh*
+938,Renault,Duster,85PS Diesel RxL,2016,"65,639 kms",Diesel,Second Owner,chennai,5.9 Lakh*
+939,BMW,3,Series GT Luxury Line,2016,"50,000 kms",Diesel,First Owner,chennai,22.5 Lakh*
+940,Hyundai,Xcent,1.2 VTVT SX,2018,"15,000 kms",Petrol,First Owner,chennai,6.2 Lakh*
+941,Toyota,Innova,Crysta 2016-2020 2.4 GX MT,2017,"45,000 kms",Diesel,First Owner,chennai,15.75 Lakh*
+942,Ford,Classic,1.4 Duratorq CLXI,2013,"1,50,000 kms",Diesel,First Owner,chennai,3 Lakh*
+943,Tata,Hexa,XT,2018,"70,000 kms",Diesel,First Owner,chennai,16 Lakh*
+944,Ford,Figo,Petrol EXI,2013,"36,542 kms",Petrol,First Owner,chennai,3 Lakh*
+945,Mini,Cooper,S,2019,"22,000 kms",Petrol,First Owner,chennai,41 Lakh*
+946,Hyundai,Verna,CRDi 1.6 SX Option,2019,"35,000 kms",Diesel,First Owner,chennai,12.75 Lakh*
+947,Mahindra,XUV500,W10 AWD,2018,"49,000 kms",Diesel,First Owner,chennai,14.75 Lakh*
+948,Maruti,Ertiga,SHVS VDI,2017,"41,000 kms",Diesel,First Owner,chennai,8.7 Lakh*
+949,Datsun,GO,T BSIV,2014,"20,000 kms",Petrol,First Owner,chennai,3.3 Lakh*
+950,Maruti,Swift,ZXI,2015,"36,000 kms",Petrol,First Owner,chennai,5.5 Lakh*
+951,Hyundai,i10,Asta,2011,"49,521 kms",Petrol,Second Owner,chennai,2.9 Lakh*
+952,Hyundai,i20,2015-2017 Asta Option 1.4 CRDi,2016,"70,000 kms",Diesel,First Owner,chennai,6 Lakh*
+953,Hyundai,Xcent,1.1 CRDi SX,2018,"26,980 kms",Diesel,First Owner,chennai,5.3 Lakh*
+954,Toyota,Innova,2.5 VX (Diesel) 8 Seater,2014,"129,900 kms",Diesel,First Owner,chennai,13 Lakh*
+955,Renault,KWID,RXL,2017,"14,000 kms",Petrol,First Owner,chennai,3.45 Lakh*
+956,Ford,Figo,1.5D Titanium MT,2017,"37,570 kms",Diesel,First Owner,chennai,5.5 Lakh*
+957,Renault,Duster,RXZ Turbo CVT,2021,"1,000 kms",Petrol,Test Drive Car,chennai,12.77 Lakh*
+958,Volkswagen,Polo,GT TSI,2017,"20,000 kms",Petrol,First Owner,chennai,8 Lakh*
+959,Honda,WR-V,i-VTEC S,2018,"22,000 kms",Petrol,First Owner,chennai,8.1 Lakh*
+960,Tata,Nano,XT,2015,"15,000 kms",Petrol,First Owner,chennai,1.7 Lakh*
+961,Honda,City,i VTEC CVT VX,2016,"35,000 kms",Petrol,First Owner,chennai,8.75 Lakh*
+962,Hyundai,i10,Sportz AT,2011,"41,000 kms",Petrol,First Owner,chennai,3.45 Lakh*
+963,Hyundai,Santro,Xing GLS,2009,"40,000 kms",Petrol,First Owner,chennai,1.9 Lakh*
+964,Maruti,Alto,800 LXI,2017,"60,000 kms",Petrol,First Owner,chennai,2.65 Lakh*
+965,Hyundai,i10,Magna 1.2,2012,"27,965 kms",Petrol,Second Owner,chennai,2.75 Lakh*
+966,Honda,Mobilio,S i VTEC,2015,"24,500 kms",Petrol,First Owner,chennai,6.75 Lakh*
+967,Hyundai,Grand,i10 Asta,2016,"43,000 kms",Petrol,Second Owner,chennai,4.65 Lakh*
+968,Toyota,Corolla,Altis D-4D G,2014,"1,39,900 kms",Diesel,First Owner,chennai,8.49 Lakh*
+969,Hyundai,i10,Magna 1.2 iTech SE,2011,"79,000 kms",Petrol,Second Owner,chennai,2.9 Lakh*
+970,Hyundai,Xcent,1.2 VTVT S,2014,"50,428 kms",Petrol,First Owner,chennai,4.1 Lakh*
+971,Maruti,Baleno,Zeta Automatic,2017,"60,000 kms",Petrol,Second Owner,chennai,5.5 Lakh*
+972,Toyota,Fortuner,4x2 AT,2014,"84,900 kms",Diesel,First Owner,chennai,17.96 Lakh*
+973,Hyundai,Santro,Xing XO,2006,"58,318 kms",Petrol,First Owner,chennai,1.6 Lakh*
+974,Honda,City,1.5 S MT,2018,"53,093 kms",Petrol,First Owner,chennai,7.5 Lakh*
+975,Toyota,Camry,2.5 Hybrid,2015,"80,000 kms",Petrol,Second Owner,chennai,14.5 Lakh*
+976,Skoda,Kodiaq,2.0 TDI Style,2018,"60,000 kms",Diesel,First Owner,chennai,28.9 Lakh*
+977,Toyota,Corolla,Altis 1.8 VL AT,2010,"1,00,000 kms",Petrol,First Owner,chennai,4.6 Lakh*
+978,Maruti,Celerio,X AMT VXI BSIV,2018,"22,418 kms",Petrol,First Owner,chennai,4.75 Lakh*
+979,Hyundai,Grand,i10 Magna AT,2016,"49,000 kms",Petrol,First Owner,chennai,4.9 Lakh*
+980,Honda,City,1.5 V MT,2011,"88,000 kms",Petrol,Second Owner,chennai,4.25 Lakh*
+981,Tata,Tiago,1.2 Revotron XT,2018,"39,000 kms",Petrol,First Owner,chennai,5.15 Lakh*
+982,Hyundai,i20,2015-2017 Sportz 1.2,2014,"60,000 kms",Petrol,First Owner,chennai,4.95 Lakh*
+983,Hyundai,Santro,Xing GLS,2009,"1,00,000 kms",Petrol,First Owner,chennai,1.5 Lakh*
+984,Maruti,Wagon,R VXI,2019,"25,708 kms",Petrol,First Owner,chennai,4.6 Lakh*
+985,Maruti,Swift,VXI Optional,2017,"45,000 kms",Petrol,First Owner,chennai,6.2 Lakh*
+986,Mercedes-Benz,B-Class,B200 CDI,2017,"34,000 kms",Diesel,First Owner,chennai,20.25 Lakh*
+987,Nissan,Micra,Active XL Petrol,2016,"57,000 kms",Petrol,First Owner,chennai,3.75 Lakh*
+988,Toyota,Fortuner,4x4 MT,2016,"75,000 kms",Diesel,First Owner,chennai,21.5 Lakh*
+989,Hyundai,Verna,i (Petrol),2007,"59,000 kms",Petrol,Third Owner,chennai,1.8 Lakh*
+990,Maruti,Swift,ZXI,2017,"44,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+991,Toyota,Innova,Crysta 2016-2020 2.4 ZX AT,2020,"2,500 kms",Diesel,First Owner,chennai,28 Lakh*
+992,Maruti,Wagon,R LXI DUO,2009,"30,000 kms",LPG,First Owner,chennai,2.5 Lakh*
+993,Skoda,Fabia,1.2L Diesel Classic,2011,"1,34,000 kms",Diesel,First Owner,chennai,2.25 Lakh*
+994,Hyundai,EON,D Lite Plus,2014,"21,000 kms",Petrol,First Owner,chennai,2.4 Lakh*
+995,Ford,EcoSport,Sports Diesel,2020,"11,834 kms",Diesel,First Owner,chennai,12.75 Lakh*
+996,Nissan,Sunny,XV D Premium Safety,2016,"42,250 kms",Diesel,First Owner,chennai,6.5 Lakh*
+997,Maruti,Ertiga,LDI,2012,"88,011 kms",Diesel,First Owner,chennai,5.3 Lakh*
+998,Honda,Amaze,S i-Vtech,2015,"70,000 kms",Petrol,First Owner,chennai,4.35 Lakh*
+999,Hyundai,EON,Era Plus,2013,"70,000 kms",Petrol,Second Owner,chennai,2.4 Lakh*
+1000,Tata,Tiago,1.2 Revotron XT,2018,"41,000 kms",Petrol,First Owner,chennai,4.95 Lakh*
+1001,Hyundai,i20,Petrol Asta Option,2018,"47,000 kms",Petrol,First Owner,chennai,7.4 Lakh*
+1002,Hyundai,i10,Magna,2010,"1,00,000 kms",Petrol,First Owner,chennai,2.25 Lakh*
+1003,Hyundai,i10,Magna 1.2,2010,"45,507 kms",Petrol,First Owner,chennai,2.35 Lakh*
+1004,Tata,Indica,DLX,2007,"35,000 kms",Diesel,First Owner,chennai,1.25 Lakh*
+1005,Kia,Seltos,GTX DCT,2019,"24,000 kms",Petrol,First Owner,chennai,17.3 Lakh*
+1006,Hyundai,i20,2012-2014 Asta 1.4 AT,2012,"80,000 kms",Petrol,Second Owner,chennai,3.5 Lakh*
+1007,Hyundai,i10,Era,2008,"78,000 kms",Petrol,Second Owner,chennai,2.25 Lakh*
+1008,Hyundai,EON,Era Plus,2014,"39,000 kms",Petrol,Second Owner,chennai,2.8 Lakh*
+1009,Volkswagen,Polo,GT TSI,2016,"57,370 kms",Petrol,Second Owner,chennai,6.25 Lakh*
+1010,BMW,3,Series 320d Luxury Line,2014,"1,00,000 kms",Diesel,Second Owner,chennai,16 Lakh*
+1011,Hyundai,i20,Sportz AT 1.4,2013,"30,317 kms",Petrol,First Owner,chennai,4 Lakh*
+1012,Volkswagen,Polo,2015-2019 1.5 TDI Highline,2014,"56,000 kms",Diesel,First Owner,chennai,5.4 Lakh*
+1013,Toyota,Platinum,Etios 1.5 V,2018,"61,328 kms",Petrol,First Owner,chennai,6.2 Lakh*
+1014,Mahindra,XUV500,W10 2WD,2015,"42,000 kms",Diesel,First Owner,chennai,11.8 Lakh*
+1015,Hyundai,i20,2015-2017 Sportz 1.2,2012,"67,900 kms",Petrol,First Owner,chennai,2.8 Lakh*
+1016,Honda,Jazz,1.2 V i VTEC,2018,"9,560 kms",Petrol,First Owner,chennai,7 Lakh*
+1017,Maruti,Swift,VXi BSIV,2010,"56,700 kms",Petrol,First Owner,chennai,2.9 Lakh*
+1018,Honda,Civic,1.8 V AT,2007,"26,000 kms",Petrol,Second Owner,chennai,4.25 Lakh*
+1019,Mahindra,XUV500,AT W9 2WD,2019,"7,900 kms",Diesel,First Owner,chennai,16.99 Lakh*
+1020,Chevrolet,Spark,1.0 LT,2007,"62,000 kms",Petrol,First Owner,chennai,1.2 Lakh*
+1021,Honda,City,i DTec V,2016,"56,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+1022,Mahindra,XUV500,W6 2WD,2012,"77,000 kms",Diesel,Third Owner,chennai,7.25 Lakh*
+1023,Maruti,Swift,VXI Glory Limited Edition,2015,"1,10,000 kms",Petrol,First Owner,chennai,4.77 Lakh*
+1024,Hyundai,Verna,1.6 SX,2011,"94,500 kms",Diesel,First Owner,chennai,4.4 Lakh*
+1025,Ford,EcoSport,1.5 Petrol Titanium Plus AT,2018,"40,000 kms",Petrol,First Owner,chennai,8.9 Lakh*
+1026,Maruti,Celerio,ZXI AMT Optional,2019,"22,000 kms",Petrol,First Owner,chennai,5.25 Lakh*
+1027,Ford,Figo,1.5D Ambiente MT,2016,"60,000 kms",Diesel,First Owner,chennai,3.95 Lakh*
+1028,Tata,Indica,Vista Quadrajet 90 VX,2012,"98,947 kms",Diesel,First Owner,chennai,2.1 Lakh*
+1029,Chevrolet,Spark,1.0,2009,"47,372 kms",Petrol,Second Owner,chennai,1.3 Lakh*
+1030,Toyota,Corolla,Altis G,2011,"69,775 kms",Petrol,Second Owner,chennai,4.8 Lakh*
+1031,Maruti,Ertiga,VDI,2012,"1,15,000 kms",Diesel,First Owner,chennai,5.65 Lakh*
+1032,Hyundai,Santa,Fe 4WD AT,2016,"99,000 kms",Diesel,First Owner,chennai,14.5 Lakh*
+1033,Ford,Figo,Diesel ZXI,2013,"83,500 kms",Diesel,First Owner,chennai,2.75 Lakh*
+1034,Volkswagen,Polo,GT TSI,2013,"44,000 kms",Petrol,First Owner,chennai,5.4 Lakh*
+1035,MG,Hector,Sharp Diesel MT,2021,"4,500 kms",Diesel,First Owner,chennai,20.75 Lakh*
+1036,Maruti,Swift,Vdi BSIII,2010,"86,000 kms",Diesel,First Owner,chennai,3.28 Lakh*
+1037,Honda,Amaze,2016-2021 S Diesel,2013,"98,821 kms",Diesel,First Owner,chennai,3.5 Lakh*
+1038,Hyundai,Santro,Xing XO,2006,"70,000 kms",Petrol,First Owner,chennai,1.53 Lakh*
+1039,Mahindra,Xylo,H8 ABS with Airbags,2019,"50,000 kms",Diesel,First Owner,chennai,8 Lakh*
+1040,Hyundai,i20,Sportz Plus BSIV,2018,"26,000 kms",Petrol,First Owner,chennai,6.9 Lakh*
+1041,Renault,Duster,RXZ Turbo,2020,"2,000 kms",Petrol,Test Drive Car,chennai,12.23 Lakh*
+1042,Maruti,Swift,ZXI,2014,"50,000 kms",Petrol,First Owner,chennai,5.25 Lakh*
+1043,Maruti,SX4,S Cross DDiS 200 Zeta,2017,"40,000 kms",Diesel,First Owner,chennai,8 Lakh*
+1044,Hyundai,Verna,1.6 SX,2013,"59,000 kms",Diesel,Second Owner,chennai,5.5 Lakh*
+1045,Hyundai,i20,1.4 CRDi Magna,2011,"66,000 kms",Diesel,Second Owner,chennai,3.45 Lakh*
+1046,Ford,EcoSport,1.5 Diesel Titanium,2015,"89,000 kms",Diesel,First Owner,chennai,5.99 Lakh*
+1047,Toyota,Innova,2.5 GX (Diesel) 7 Seater,2016,"74,000 kms",Diesel,First Owner,chennai,13.9 Lakh*
+1048,Maruti,Baleno,Delta 1.2,2015,"30,000 kms",Petrol,First Owner,chennai,5.64 Lakh*
+1049,Hyundai,i20,1.2 Spotz,2010,"64,325 kms",Petrol,First Owner,chennai,2.9 Lakh*
+1050,Tata,Zest,Revotron 1.2T XM,2016,"45,000 kms",Petrol,First Owner,chennai,3.95 Lakh*
+1051,Volkswagen,Vento,1.6 Highline,2015,"47,000 kms",Petrol,First Owner,chennai,6 Lakh*
+1052,Hyundai,EON,Era Plus Option,2016,"41,671 kms",Petrol,First Owner,chennai,3.33 Lakh*
+1053,Honda,Jazz,X,2012,"15,000 kms",Petrol,First Owner,chennai,4.5 Lakh*
+1054,Honda,City,i VTEC V,2017,"41,000 kms",Petrol,First Owner,chennai,7.75 Lakh*
+1055,Mercedes-Benz,E-Class,280 Elegance,2007,"82,000 kms",Petrol,Second Owner,chennai,3.75 Lakh*
+1056,Fiat,Linea,Emotion (Diesel),2013,"68,100 kms",Diesel,Second Owner,chennai,3.75 Lakh*
+1057,Mahindra,KUV100,NXT D75 K6 Plus,2016,"79,637 kms",Diesel,Second Owner,chennai,3.3 Lakh*
+1058,Mitsubishi,Pajero,Sport 4X4,2014,"97,100 kms",Diesel,First Owner,chennai,13.85 Lakh*
+1059,Skoda,Rapid,1.6 TDI Ambition Plus,2012,"99,500 kms",Diesel,First Owner,chennai,3.69 Lakh*
+1060,Hyundai,i20,Sportz Plus BSIV,2018,"47,000 kms",Petrol,First Owner,chennai,6.25 Lakh*
+1061,Volkswagen,Polo,2015-2019 1.0 MPI Comfortline,2019,"27,000 kms",Petrol,Second Owner,chennai,6.2 Lakh*
+1062,Volkswagen,Polo,1.5 TDI Comfortline,2018,"20,000 kms",Diesel,First Owner,chennai,7.65 Lakh*
+1063,Toyota,Corolla,H2,2004,"1,15,000 kms",Petrol,First Owner,chennai,2.25 Lakh*
+1064,Maruti,Swift,ZDI BSIV,2017,"81,000 kms",Diesel,First Owner,chennai,6.25 Lakh*
+1065,Maruti,Baleno,Delta 1.2,2018,"13,980 kms",Petrol,First Owner,chennai,6.5 Lakh*
+1066,Mahindra,XUV500,W7 AT,2018,"69,000 kms",Diesel,First Owner,chennai,12.99 Lakh*
+1067,Hyundai,i20,Active 1.2 SX,2017,"19,000 kms",Petrol,First Owner,chennai,7.3 Lakh*
+1068,Hyundai,i10,Sportz,2013,"43,000 kms",Petrol,First Owner,chennai,3.75 Lakh*
+1069,Hyundai,i20,Asta 1.4 CRDi (Diesel),2011,"76,000 kms",Diesel,Second Owner,chennai,3.75 Lakh*
+1070,Maruti,800,DX 5 Speed,2000,"70,000 kms",Petrol,Third Owner,chennai,"94,000*"
+1071,Hyundai,EON,Era Plus,2013,"40,000 kms",Petrol,First Owner,chennai,2.9 Lakh*
+1072,Hyundai,i20,Petrol Asta Dual Tone,2018,"9,700 kms",Petrol,First Owner,chennai,7.1 Lakh*
+1073,Hyundai,i20,2015-2017 Asta 1.4 CRDi,2014,"75,200 kms",Diesel,First Owner,chennai,4.65 Lakh*
+1074,Mercedes-Benz,GLA,Class 200 Sport,2019,"4,000 kms",Petrol,First Owner,chennai,31.75 Lakh*
+1075,Land,Rover,Range Rover Evoque HSE Dynamic,2015,"42,000 kms",Diesel,First Owner,chennai,32 Lakh*
+1076,Honda,City,i DTec V,2016,"56,000 kms",Diesel,First Owner,chennai,7.85 Lakh*
+1077,Skoda,Fabia,1.2L Diesel Classic,2011,"1,20,000 kms",Diesel,Second Owner,chennai,1.75 Lakh*
+1078,Hyundai,i10,Era,2012,"64,900 kms",Petrol,First Owner,chennai,2.85 Lakh*
+1079,Hyundai,i20,1.4 CRDi Magna,2011,"53,595 kms",Diesel,First Owner,chennai,3.6 Lakh*
+1080,BMW,7,Series Signature 730Ld,2015,"26,000 kms",Diesel,First Owner,chennai,39.9 Lakh*
+1081,Hyundai,Grand,i10 1.2 Kappa Asta,2013,"53,515 kms",Petrol,First Owner,chennai,3.75 Lakh*
+1082,Audi,A6,35 TDI,2018,"8,000 kms",Diesel,First Owner,chennai,43 Lakh*
+1083,Skoda,Rapid,1.6 MPI AT Elegance,2015,"42,000 kms",Petrol,First Owner,chennai,6.3 Lakh*
+1084,Fiat,Linea,T Jet Active,2014,"52,000 kms",Petrol,Second Owner,chennai,3.6 Lakh*
